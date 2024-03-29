@@ -6,10 +6,10 @@ title: page YZ # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name: 
 last_name: ZENG
-email: you@example.com
+email: yuzeng@usf.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   YZ description. 
-footer_text:  XXXX 
+footer_text:
 keywords: # jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  (old email yzeng@ucmerced is no long working)
+  (old email yzeng7@ucmerced is no long working)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
