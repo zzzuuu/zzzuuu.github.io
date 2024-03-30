@@ -4,7 +4,6 @@ title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -21,8 +20,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-![borneo cicada](/borneo_cicada.jpeg){:class="img-responsive"}{:height="100px" width="400px"}
-# {:width="25%"} 
+![borneo cicada](img/borneo_cicada.jpeg){:class="img-responsive"}{:height="100px" width="400px"}
+ <!--{:width="25%"}-->  
 
 
 > Write  **about** yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
