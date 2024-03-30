@@ -4,7 +4,7 @@ title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-![borneo cicada](/borneo_cicada.jpg){:class="img-responsive"}{:height="100px" width="400px"}
+![borneo cicada](/borneo_cicada.jpeg){:class="img-responsive"}{:height="100px" width="400px"}
 # {:width="25%"} 
 
 profile:
