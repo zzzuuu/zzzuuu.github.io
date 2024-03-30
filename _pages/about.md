@@ -4,8 +4,6 @@ title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-![borneo cicada](/borneo_cicada.jpeg){:class="img-responsive"}{:height="100px" width="400px"}
-# {:width="25%"} 
 
 profile:
   align: right
@@ -21,6 +19,11 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+
+![borneo cicada](/borneo_cicada.jpeg){:class="img-responsive"}{:height="100px" width="400px"}
+# {:width="25%"} 
+
 
 > Write  **about** yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
