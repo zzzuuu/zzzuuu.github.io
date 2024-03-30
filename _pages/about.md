@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="100px" width="400px"}
+![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="50%"}
  <!--{:width="25%"}-->  
 
 
