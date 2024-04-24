@@ -2,7 +2,7 @@
 layout: page
 title: project flight
 description: wings are flapping
-img: assets/img/12.jpg
+img: assets/img2024/proj.flight/wingbase_closeup1.jpg
 importance: 1
 category: work
 related_publications: true
