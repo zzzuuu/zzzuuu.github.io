@@ -2,7 +2,7 @@
 layout: page
 title: Long legs
 description: another without an image
-img:
+img: assets/img/publication_preview/movie_s1_original-size-1.gif
 importance: 3
 category: fun
 ---
