@@ -31,11 +31,6 @@ The majority of my work involves wings, legs and other appendicular systems used
 
 ----
 
-### Contact
-You can send me emails at: yuzeng {at} usf.edu / dreavoniz {at} berkeley.edu / zeng {at} berkeley.edu / (yzeng7 {at} ucmerced is no longer working)
-
-----
-
 ### Education
 I received my Ph.D. in Integrative Biology, University of California at Berkeley, and I was co-advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/).
 
@@ -56,6 +51,11 @@ I received my Ph.D. in Integrative Biology, University of California at Berkeley
 * PLOS ONE
 * Scientific Reports
 * Zoomorphology
+
+----
+
+### Contact
+yuzeng {at} usf.edu / zeng {at} berkeley.edu / dreavoniz {at} berkeley.edu  / (yzeng7 {at} ucmerced is no longer working)
 
 ----
 <!--How to pronounce my name? My first name Yu ([昱](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%98%B1)): it has a final "[-ü](https://resources.allsetlearning.com/chinese/pronunciation/-%C3%BC)", see details [here](https://resources.allsetlearning.com/chinese/pronunciation/Yu) and [this YouTube video](https://www.youtube.com/watch?v=XwG_jp42GhA).-->
