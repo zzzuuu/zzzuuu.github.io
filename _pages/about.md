@@ -25,7 +25,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm **Yu Zeng** (曾昱). I’m a biomechanist and evolutionary biologist based in the University of South Florida at Tampa, Florida.
 
-I mostly work on the mechanics, architecture and evolution of smart designs in organisms. The majority of my work involves locomotion in air, feeding and predator-prey interactions, from cellular to organismal levels. 
+### Research
+I mostly work on the biomechanics, architecture and evolution of smart designs in organisms. The majority of my work involves appendicular systems used for locomotion in air, feeding and predator-prey interactions, from cellular to organismal levels. 
 
 ### Education
 I received my Ph.D. in Integrative Biology, University of California at Berkeley, and I was co-advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/).
