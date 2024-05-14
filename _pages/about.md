@@ -26,7 +26,7 @@ social: true # includes social icons at the bottom of the page
 Hi, I'm **Yu Zeng** (曾昱). I’m a biologist based in the University of South Florida at Tampa, Florida.
 
 ### Research
-I mostly work on the biomechanics, architecture and evolution of smart designs in organisms. The majority of my work involves appendicular systems (e.g. wings, legs, tongues, flaps, etc.) used for locomotion in air or on land, feeding and predator-prey interactions, in uni- and multi-cellular organisms. 
+I mostly work on the biomechanics, architecture and evolution of smart designs in organisms. The majority of my work involves appendicular systems (e.g. wings, legs, tongues, flaps, etc.) used for locomotion in air or on land, feeding and predator-prey interactions. Arthropods and amphibians are my favorite organisms. 
 
 ### Contact
 You can send me emails at: yuzeng {at} usf {dot} edu / dreavoniz {at} berkeley {dot} edu / zeng {at} berkeley {dot} edu / (yzeng7 {at} ucmerced is no longer working)
