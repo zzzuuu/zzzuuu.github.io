@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -33,6 +33,8 @@ You can send me emails at: yuzeng {at} usf {dot} edu / dreavoniz {at} berkeley {
 
 ### Education
 I received my Ph.D. in Integrative Biology, University of California at Berkeley, and I was co-advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/).
+
+----
 
 ### Reviewed for
 * Bioinspiration & Biomimetics
