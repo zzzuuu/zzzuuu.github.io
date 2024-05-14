@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg #assets/img2024/about/with_honey_glider.jpg
+  image: with_honey_glider.jpg #assets/img2024/about/with_honey_glider.jpg
   image_circular: false # crops the image to make it circular
  # more_info: >
     # <p>555 your office number</p>
@@ -22,13 +22,17 @@ social: true # includes social icons at the bottom of the page
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->  
 
-Hi, I'm **Yu Zeng**. I’m a biologist based in the University of South Florida at Tampa, Florida.
+Hi, I'm **Yu Zeng** 曾昱. I’m a biologist based in the University of South Florida at Tampa, Florida.
 
 ### Research
-I mostly work on the biomechanics, architecture and evolution of smart designs in organisms. The majority of my work involves appendicular systems (e.g. wings, legs, tongues, flaps, etc.) used for locomotion in air or on land, feeding and predator-prey interactions. Arthropods and amphibians are my favorite organisms. 
+I mostly work on the biomechanics, architecture and evolution of smart designs in organisms. 
+
+The majority of my work involves appendicular systems (e.g. wings, legs, tongues, flaps, etc.) used for locomotion in air or on land, feeding and predator-prey interactions. Arthropods and amphibians are my favorite organisms. 
 
 ### Contact
-You can send me emails at: yuzeng {at} usf {dot} edu / dreavoniz {at} berkeley {dot} edu / zeng {at} berkeley {dot} edu / (yzeng7 {at} ucmerced is no longer working)
+You can send me emails at: yuzeng {at} usf.edu / dreavoniz {at} berkeley.edu / zeng {at} berkeley.edu / (yzeng7 {at} ucmerced is no longer working)
+
+----
 
 ### Education
 I received my Ph.D. in Integrative Biology, University of California at Berkeley, and I was co-advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/).
