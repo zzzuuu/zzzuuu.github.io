@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 ![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
  <!--{:width="25%"}-->  
 
-Hi, I'm **Yu Zeng** (曾昱). I’m a biomechanist and evolutionary biologist based in the University of South Florida at Tampa, Florida.
+Hi, I'm **Yu Zeng** (曾昱). I’m a biologist based in the University of South Florida at Tampa, Florida.
 
 ### Research
 I mostly work on the biomechanics, architecture and evolution of smart designs in organisms. The majority of my work involves appendicular systems (e.g. wings, legs, tongues, flaps, etc.) used for locomotion in air or on land, feeding and predator-prey interactions, in uni- and multi-cellular organisms. 
