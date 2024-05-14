@@ -19,9 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!--
-![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
- <!--{:width="25%"}-->  
+<!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
+<!--{:width="25%"}-->  
 
 Hi, I'm **Yu Zeng**. I’m a biologist based in the University of South Florida at Tampa, Florida.
 
