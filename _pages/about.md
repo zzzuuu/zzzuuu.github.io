@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: 
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -14,7 +14,7 @@ profile:
     # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: false # includes a list of the newest posts
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 ![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
  <!--{:width="25%"}-->  
 
-Hi, I'm **Yu Zeng** (曾昱). I’m a biologist based in the University of South Florida at Tampa, Florida.
+Hi, I'm **Yu Zeng**. I’m a biologist based in the University of South Florida at Tampa, Florida.
 
 ### Research
 I mostly work on the biomechanics, architecture and evolution of smart designs in organisms. The majority of my work involves appendicular systems (e.g. wings, legs, tongues, flaps, etc.) used for locomotion in air or on land, feeding and predator-prey interactions. Arthropods and amphibians are my favorite organisms. 
@@ -53,7 +53,7 @@ I received my Ph.D. in Integrative Biology, University of California at Berkeley
 * Zoomorphology
 
 ----
-How to pronounce my name? My first name Yu ([昱](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%98%B1)): it has a final "[-ü](https://resources.allsetlearning.com/chinese/pronunciation/-%C3%BC)", see details [here](https://resources.allsetlearning.com/chinese/pronunciation/Yu) and [this YouTube video](https://www.youtube.com/watch?v=XwG_jp42GhA).
+<!--How to pronounce my name? My first name Yu ([昱](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%98%B1)): it has a final "[-ü](https://resources.allsetlearning.com/chinese/pronunciation/-%C3%BC)", see details [here](https://resources.allsetlearning.com/chinese/pronunciation/Yu) and [this YouTube video](https://www.youtube.com/watch?v=XwG_jp42GhA).-->
 
 <!-- > Write  **about** yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
