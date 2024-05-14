@@ -27,7 +27,7 @@ Hi, I'm **Yu Zeng** 曾昱. I’m a biologist based in the University of South F
 ### Research
 I mostly work on the biomechanics, architecture and evolution of smart designs in organisms. 
 
-The majority of my work involves appendicular systems (e.g. wings, legs, tongues, flaps, etc.) used for locomotion in air or on land, feeding and predator-prey interactions. Arthropods and amphibians are my favorite organisms. 
+The majority of my work involves appendicular systems (e.g. wings, legs, tongues, etc.) used for locomotion and feeding, including a diversity of behaviors in air, on land or at liquid-air interfaces. Arthropods and amphibians are my favorite organisms. 
 
 ### Contact
 You can send me emails at: yuzeng {at} usf.edu / dreavoniz {at} berkeley.edu / zeng {at} berkeley.edu / (yzeng7 {at} ucmerced is no longer working)
