@@ -281,7 +281,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Zeng]
-  first_name: [Yu, Y.]
+  first_name: [Yu, Y., Y]
 
   style: apa
   locale: en
