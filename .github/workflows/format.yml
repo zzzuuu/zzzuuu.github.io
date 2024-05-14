@@ -20,7 +20,7 @@ jobs:
       - run: npx prettier --write .
       - name: Commit changes
         run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'your-email@example.com'
+          git config --global user.name 'zzzuuu'
+          git config --global user.email 'dreamoniz@gmail.com'
           git commit -am "Apply Prettier changes" || echo "No changes to commit"
           git push
