@@ -24,10 +24,16 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm **Yu Zeng** 曾昱. I’m a biologist based in the University of South Florida at Tampa, Florida.
 
+----
+
 ### Research
 Biomechanics, architecture and evolution of organismal designs. 
 
 The majority of my work involves wings, legs and other appendicular systems used for flying, maneuvering and feeding, including a diversity of behaviors in air, on land or at the liquid-air interfaces. Arthropods and amphibians are my favorite groups. 
+
+Main porjects include:
+* Evolution and biomechancis of flight in insects, which also involves aerial maneuvers and gliding without wings. The model systems include stick insects (Phasmatodea) and other arthropods. 
+* Mechanisms of appendage-mediated rapid performances, especially in feeding and predator-prey interactions. 
 
 ----
 
