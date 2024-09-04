@@ -2,11 +2,14 @@
 layout: page
 permalink: /contact/
 title: media & contact
-description: I am passionate about sharing my work in biomechanics and biology with a broader audience. If you’re a journalist, researcher, or educator, feel free to reach out for interviews, media collaborations, or speaking engagements.
- nav: true
- nav_order: 3
-
+# description: 
+nav: true
+nav_order: 3
 ----
+
+I am passionate about sharing my work in biomechanics and biology with a broader audience. If you’re a journalist, researcher, or educator, feel free to reach out for interviews, media collaborations, or speaking engagements.
+
+
 ### Media feature 
 Past feature
 
