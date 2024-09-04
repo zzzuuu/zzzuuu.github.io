@@ -29,9 +29,9 @@ Hi, I'm **Yu Zeng** 曾昱. I’m a biologist based in the University of South F
 ### Research
 Biomechanics, architecture and evolution of organismal designs. 
 
-The majority of my work involves wings, legs and other appendicular systems used for flying, maneuvering and feeding, including a diversity of behaviors in air, on land or at the liquid-air interfaces. Arthropods and amphibians are my favorite groups. 
+My research investigates how the interplay between physical laws and organisms generates the vast diversity of organismal designs, such as flapping wings, legs and other appendicular systems used for flying, maneuvering and feeding in air, on land or at the liquid-air interfaces. 
 
-Main porjects include:
+Main themes: 
 * Evolution and biomechancis of flight in insects, which also involves aerial maneuvers and gliding without wings. The model systems include stick insects (Phasmatodea) and other arthropods. 
 * Mechanisms of appendage-mediated rapid performances, especially in feeding and predator-prey interactions. 
 
