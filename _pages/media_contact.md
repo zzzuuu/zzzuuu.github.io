@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/
 title: Media & contact
 # description: Engage with me
-nav: true
+# nav: true
 # nav_order: 3
 ---
 
