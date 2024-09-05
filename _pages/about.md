@@ -38,7 +38,9 @@ Main themes:
 <div class="text-center">
   {% include figure.liquid path="assets/img2024/proj.flight/stick-insect-glide-3.gif" title="Stick insect nymph gliding" class="img-fluid rounded z-depth-1" style="max-width: 40%;" %}
 </div>
-
+<div class="caption">
+    Stick insect nymph gliding. 
+</div>
 ----
 
 ### Education
