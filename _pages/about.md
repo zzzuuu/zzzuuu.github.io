@@ -35,6 +35,10 @@ Main themes:
 * Evolution and biomechancis of flight in insects, which also involves aerial maneuvers and gliding without wings. The model systems include stick insects (Phasmatodea) and other arthropods. 
 * Mechanisms of appendage-mediated rapid performances, especially in feeding and predator-prey interactions. 
 
+<div class="text-center">
+  {% include figure.liquid path="assets/img2024/proj.flight/stick-insect-glide-3.gif" title="Stick insect nymph gliding" class="img-fluid rounded z-depth-1" style="max-width: 100%;" %}
+</div>
+
 ----
 
 ### Education
