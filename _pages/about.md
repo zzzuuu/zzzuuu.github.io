@@ -44,7 +44,8 @@ Main themes:
 ----
 
 ### Education
-I received my Ph.D. in Integrative Biology, University of California at Berkeley, and I was co-advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/).
+I received my Ph.D. in Integrative Biology, University of California at Berkeley.  
+I was co-advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/).
 
 ----
 
@@ -69,8 +70,7 @@ I received my Ph.D. in Integrative Biology, University of California at Berkeley
 ### Email
 zeng @ berkeley.edu  
 dreavoniz @ berkeley.edu  
-yuzeng @ usf.edu  
-  
+yuzeng @ usf.edu   
 (Note: yzeng7 @ ucmerced.edu is defunct)  
 
 ----
