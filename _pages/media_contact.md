@@ -9,13 +9,13 @@ nav_order: 3
 
 I am passionate about sharing my work in biomechanics and evolution with a broader audience.  
 
-If you’re a journalist, researcher, or educator, feel free to reach out for interviews, media collaborations, consulting or speaking engagements.
+If you’re a media worker, researcher, or educator, feel free to reach out for interviews, media collaborations, consulting or speaking engagements.
 
 ---
 
-## Media feature 
+### Media feature 
 
-- Discovery of orchid mantis gliding with petal-shaped leg lobes – [Science Magazine](https://www.science.org/content/article/winged-legs-orchid-mantis-sets-gliding-record)
+- Orchid mantis gliding with petal-shaped leg lobes – [Science Magazine](https://www.science.org/content/article/winged-legs-orchid-mantis-sets-gliding-record)
 / [Phys.org](https://phys.org/news/2023-11-orchid-mantises-petal-shaped-femoral-lobes.html)
 
 - Unique biology of stalk-eyed fruit flies – [Entomology Today](https://entomologytoday.org/2022/08/12/new-insight-eye-popping-biology-pelmatops-stalk-eyed-fruit-flies/)
@@ -56,17 +56,18 @@ If you’re a journalist, researcher, or educator, feel free to reach out for in
 
 
 ----
-### Public Speaking and Outreach
-- 05/2024	| Entomology Society, University of South Florida, FL 
-- 09/2022	| Department of Biological Sciences, San José State University, CA 
-- 03/2022	| Science Forum, Schmid College for Science and Technology, Chapman University, CA 
-- 08/2017 	| CalTeach Summer Institute for teachers, UC Merced, CA 
-- 10/2015 	| Kunming Institute of Zoology, Kunming, China 
-- 09/2014 	| East Bay Science Cafe, Berkeley, CA
-- 07/2012 	| Conservatory of Flowers, Golden Gate Park, San Francisco, CA
+### Public speaking and outreach
+- 2024	| Entomology Society, University of South Florida, FL 
+- 2022	| Department of Biological Sciences, San José State University, CA 
+- 2022	| Science Forum, Schmid College for Science and Technology, Chapman University, CA 
+- 2017 	| CalTeach Summer Institute for teachers, UC Merced, CA 
+- 2015 	| Kunming Institute of Zoology, Kunming, China 
+- 2014 	| East Bay Science Cafe, Berkeley, CA
+- 2013  | The Lawrence Hall of Science
+- 2012 	| Conservatory of Flowers, Golden Gate Park, San Francisco, CA
 
 
 ----
-### Contact Information
+### Contact information
 zeng @ berkeley.edu  
 yuzeng @ usf.edu   
