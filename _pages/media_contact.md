@@ -7,46 +7,66 @@ title: Media & contact
 nav_order: 3
 ---
 
-I am passionate about sharing my work in biomechanics and biology with a broader audience. If you’re a journalist, researcher, or educator, feel free to reach out for interviews, media collaborations, or speaking engagements.
+I am passionate about sharing my work in biomechanics and evolution with a broader audience.  
+
+If you’re a journalist, researcher, or educator, feel free to reach out for interviews, media collaborations, consulting or speaking engagements.
 
 ---
 
-### Media feature 
+## Media feature 
 
-- "This stunning discovery of orchid mantis setting a gliding record fascinates the entomology community." – [Science Magazine](https://www.science.org/content/article/winged-legs-orchid-mantis-sets-gliding-record)
-  - Brief Summary: This article explores how the orchid mantis uses its legs to achieve the longest glides ever recorded for its size.
-- "The orchid mantis uses its extraordinary gliding ability to adapt to its environment." – [Phys.org](https://phys.org/news/2021-08-orchid-mantis-glides-flight.html)
+- Discovery of orchid mantis gliding with petal-shaped leg lobes – [Science Magazine](https://www.science.org/content/article/winged-legs-orchid-mantis-sets-gliding-record)
+/ [Phys.org](https://phys.org/news/2023-11-orchid-mantises-petal-shaped-femoral-lobes.html)
 
-- "Researchers uncover the mechanics of the stalk-eyed fruit fly's unique mating behavior." – [Entomology Today](https://entomologytoday.org)
-- "Stalk-eyed fruit flies provide stunning visual cues that could revolutionize how we understand evolutionary biology." – [Science Visualized](https://sciencevisualized.org)
+- Unique biology of stalk-eyed fruit flies – [Entomology Today](https://entomologytoday.org/2022/08/12/new-insight-eye-popping-biology-pelmatops-stalk-eyed-fruit-flies/)
+/ [Science News](https://www.sciencenews.org/article/fruit-flies-eyes-head-eyestalks)
 
-- "The study of hagfish slime's molecular makeup is paving the way for future biomaterials." – [eLife Magazine](https://elifesciences.org/articles/45660)
+- Hagfish slime orginates from skin – [eLife Magazine](https://elifesciences.org/digests/81405/how-hagfish-slime-evolved)
 
-- "A breakthrough in understanding hagfish slime production opens new doors in material science." – [The Scientist](https://www.the-scientist.com/news-opinion/molecular-dissection-of-hagfish-slime-production-66364)
-  - Brief Summary: This article dissects how hagfish thread cells are key to producing its slime.
-- "Hagfish slime may hold the key to sustainable materials in the future." – [Newswise](https://www.newswise.com/articles/new-insights-into-hagfish-slime-production)
-- "The mystery of hagfish slime is unraveling, one cell at a time." – [SYFY](https://www.syfy.com/syfywire/scientists-discover-more-about-how-hagfish-produce-their-slime)
-- "How does hagfish slime grow and expand? Scientists are closer to the answer." – [Ars Technica](https://arstechnica.com/science/2020/03/how-a-hagfish-slime-takes-shape-in-the-water/)
+- Hagfish Slime Cells Tailored to Deter Predation – [The Scientist](https://www.the-scientist.com/news-opinion/hagfish-slime-cells-differ-to-deter-predation-69240)
+/ [Newswise](https://www.newswise.com/articles/hagfishes-break-the-cell-size-limit-to-make-large-slime-threads)
+/ [SYFY](https://www.syfy.com/syfywire/ghastly-hagfishes-ooze-the-strongest-slime-ever)
+/ [Ars Technica](https://arstechnica.com/science/2021/10/unlocking-more-secrets-of-hagfish-slime/)
 
-- "The fastest predator strike in nature—it's a flat spider's omnidirectional attack." – [National Geographic](https://www.nationalgeographic.com)
-- "Flat spiders: nature’s mechanical marvels." – [Science Daily](https://www.sciencedaily.com/releases/2020/06/200604102015.htm)
-- "This flat spider has the fastest strike in the world, even faster than a cheetah's sprint!" – [Atlas Obscura](https://www.atlasobscura.com/articles/why-flat-spiders-use-an-omnidirectional-strike)
-- "The secret to flat spider’s incredible speed lies in its multi-directional leg coordination." – [Phys.org](https://phys.org/news/2020-06-flat-spider-amazing.html)
-- [Additional Coverage in: Smithsonian Magazine, Earth.com, Silicon Republic, IFL Science, and more]
 
-- "Stick insects have evolved incredible aerial righting capabilities, showcasing nature's engineering marvels." – [Live Science](https://www.livescience.com/)
-- "Researchers reveal the aerodynamic feats of stick insects." – [News](https://news.com)
+- The fastest legged maneuver on land by flat spiders. - [Guinness World Records](https://www.guinnessworldrecords.com/world-records/517471-fastest-omnidirectional-strike)
+/ [National Geographic](https://news.nationalgeographic.com/2018/02/spinning-selenopidae-spider-hunts-prey-spd/)
+/ [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/meet-spider-fastest-leg-driven-turn-planet-180968158/)
+/ [Science Daily](https://www.sciencedaily.com/releases/2018/02/180212084445.htm)
+/ [Atlas Obscura](https://www.atlasobscura.com/articles/found-fastest-spinning-spider-flattie)
+/ [Phys.org](https://phys.org/news/2018-02-fastest-earth-animals-legs-scientists.html)
+
+
+- Incredible aerial righting capabilities in wingless insects – [Live Science News](https://www.livescience.com/57247-ways-animal-flight-inspires-drone-designs.html)
+
 
 
 ----
-### Media gallery
-Past feature
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img2024/media/f.cover.jpg" title="textbook.feature" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ----
 ### Public Speaking and Outreach
-Past feature
+- 05/2024	| Entomology Society, University of South Florida, FL 
+- 09/2022	| Department of Biological Sciences, San José State University, CA 
+- 03/2022	| Science Forum, Schmid College for Science and Technology, Chapman University, CA 
+- 08/2017 	| CalTeach Summer Institute for teachers, UC Merced, CA 
+- 10/2015 	| Kunming Institute of Zoology, Kunming, China 
+- 09/2014 	| East Bay Science Cafe, Berkeley, CA
+- 07/2012 	| Conservatory of Flowers, Golden Gate Park, San Francisco, CA
+
 
 ----
 ### Contact Information
-Past feature
-
+zeng @ berkeley.edu  
+yuzeng @ usf.edu   
