@@ -57,14 +57,13 @@ If you’re a media worker, researcher, or educator, feel free to reach out for 
 
 ----
 ### Public speaking and outreach
-- 2024	| Entomology Society, University of South Florida, FL 
-- 2022	| Department of Biological Sciences, San José State University, CA 
-- 2022	| Science Forum, Schmid College for Science and Technology, Chapman University, CA 
-- 2017 	| CalTeach Summer Institute for teachers, UC Merced, CA 
-- 2015 	| Kunming Institute of Zoology, Kunming, China 
-- 2014 	| East Bay Science Cafe, Berkeley, CA
-- 2013  | The Lawrence Hall of Science
-- 2012 	| Conservatory of Flowers, Golden Gate Park, San Francisco, CA
+- Entomology Society, University of South Florida, FL 
+- Department of Biological Sciences, San José State University, CA 
+- Science Forum, Schmid College for Science and Technology, Chapman University, CA 
+- CalTeach Summer Institute for teachers, UC Merced, CA 
+- East Bay Science Cafe, Berkeley, CA
+- The Lawrence Hall of Science
+- Conservatory of Flowers, Golden Gate Park, San Francisco, CA
 
 
 ----
