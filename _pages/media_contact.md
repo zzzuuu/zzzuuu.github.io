@@ -62,11 +62,11 @@ If you’re a media worker, researcher, or educator, feel free to reach out for 
 - Science Forum, Schmid College for Science and Technology, Chapman University, CA 
 - CalTeach Summer Institute for teachers, UC Merced, CA 
 - East Bay Science Cafe, Berkeley, CA
-- The Lawrence Hall of Science
+- The Lawrence Hall of Science, Berkeley CA
 - Conservatory of Flowers, Golden Gate Park, San Francisco, CA
 
 
 ----
 ### Contact information
-zeng @ berkeley.edu  
+zeng @ berkeley.edu ,
 yuzeng @ usf.edu   
