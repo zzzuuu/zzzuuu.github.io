@@ -16,10 +16,14 @@ title: Projects
 ### Wings
 
 
+tags / wing / reciprocate motion / elasticity / inertia / aerial locomotion / leg / forest canopy / flight /  
+
+
 <!-- xxxxxx -->
 ## Hagfish
 ### Gland thread cells 
 
+tags / biomaterial / thread / 
 
 
 <!-- xxxxxx -->
