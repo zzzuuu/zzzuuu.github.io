@@ -31,16 +31,15 @@ How did insect flight evolve. To understand transition, I use modern insects tha
 <figure role="group">
     <figcaption>Caption for the whole group of images</figcaption>
 
-    <figure>
-        <img src="assets/img/1.jpg" alt="Description of picture 1">
-        <figcaption>Caption for Picture 1</figcaption>
-    </figure>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 
     <figure>
         <img src="assets/img/3.jpg" alt="Description of picture 2">
         <figcaption>Caption for Picture 2</figcaption>
     </figure>
-        
+
 </figure>
 
 
