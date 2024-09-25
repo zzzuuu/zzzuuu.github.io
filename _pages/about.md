@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -27,13 +27,13 @@ Hi, I'm **Yu Zeng** 曾昱. I’m a biologist based in the University of South F
 ----
 
 ### Research
-Biomechanics, architecture and evolution of organismal designs. 
+Biomechanics and evolution of appendages. 
 
-My research investigates how the interplay between physical laws and organisms generates the vast diversity of organismal designs, such as flapping wings, legs and other appendicular systems used for flying, maneuvering and feeding in air, on land or at the liquid-air interfaces. 
+My research investigates the function and evolution of appendages (such as legs, wings, tails and tongues), trying to understand why they are efficient and versatile.
 
-Main themes: 
-* Evolution and biomechancis of flight in insects, which also involves aerial maneuvers and gliding without wings. The model systems include stick insects (Phasmatodea) and other arthropods. 
-* Mechanisms of appendage-mediated rapid performances, especially in feeding and predator-prey interactions. 
+Main systems: 
+* Insect flight, controlled aerial maneuvers and gliding in arthropods in general.
+* Mechanisms of appendage-mediated movements, especially in feeding and predator-prey interactions. 
 
 <div class="text-center" style="width: 250px; margin: 0 auto;">
   {% include figure.liquid path="assets/img2024/proj.flight/stick-insect-glide-3c.gif" title="Stick insect nymph gliding" class="img-fluid rounded z-depth-1" style="max-width: 100%;" %}
@@ -44,8 +44,7 @@ Main themes:
 ----
 
 ### Education
-I received my Ph.D. in Integrative Biology, University of California at Berkeley.  
-I was co-advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/).
+I received my Ph.D. in Integrative Biology from University of California at Berkeley (advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/)).
 
 ----
 
@@ -66,12 +65,12 @@ I was co-advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake
 * Zoomorphology
 
 ----
-
+<!--
 ### Email
 zeng @ berkeley.edu  
 dreavoniz @ berkeley.edu  
 yuzeng @ usf.edu   
-(Note: yzeng7 @ ucmerced.edu is defunct)  
+(Note: yzeng7 @ ucmerced.edu is defunct)  -->
 
 ----
 <!--How to pronounce my name? My first name Yu ([昱](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%98%B1)): it has a final "[-ü](https://resources.allsetlearning.com/chinese/pronunciation/-%C3%BC)", see details [here](https://resources.allsetlearning.com/chinese/pronunciation/Yu) and [this YouTube video](https://www.youtube.com/watch?v=XwG_jp42GhA).-->
