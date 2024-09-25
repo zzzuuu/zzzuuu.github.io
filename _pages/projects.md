@@ -33,7 +33,7 @@ legs / forest canopy / stability / control
 <strong>references</strong>  
 
 
-
+---
 ### Righting 
 
 {album}
@@ -54,11 +54,9 @@ Chameleons and salamanders. Tongue projection
 legs / forest canopy / stability / control 
 
 <strong>references</strong>  
-* 1 
-* 2 
+xx 
+
 ---
-
-
 ## Hagfish slime 
 
 Evolution of hagfish slime thread cell, epidermal thread cell. 
