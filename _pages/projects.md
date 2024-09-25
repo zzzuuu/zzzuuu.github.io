@@ -12,7 +12,10 @@ horizontal: false
 
 ## Insect wing and flight evolution
 
-things 
+How did insect flight evolve. To understand transition, I use modern insects that show transition beween wingless and winged forms. 
+
+tags / wing / reciprocate motion / elasticity / inertia / aerial locomotion / leg / forest canopy / flight /  
+
 
 ---- 
 ## Gliding arthropods 
