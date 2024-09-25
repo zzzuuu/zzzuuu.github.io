@@ -59,7 +59,7 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 * Scientific Reports
 * Zoomorphology
 
-----
+
 <!--
 ### Email
 zeng @ berkeley.edu  

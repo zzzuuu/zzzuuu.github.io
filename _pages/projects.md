@@ -13,7 +13,39 @@ horizontal: false
 
 How did insect flight evolve. To understand transition, I use modern insects that show transition beween wingless and winged forms. 
 
-{details}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Things captioned.
+</div>
+
+<figure role="group">
+    <figcaption>Caption for the whole group of images</figcaption>
+
+    <figure>
+        <img src="assets/img/1.jpg" alt="Description of picture 1">
+        <figcaption>Caption for Picture 1</figcaption>
+    </figure>
+
+    <figure>
+        <img src="assets/img/3.jpg" alt="Description of picture 2">
+        <figcaption>Caption for Picture 2</figcaption>
+    </figure>
+        
+</figure>
+
+
+
+
 
 <em><strong>keywords</strong></em> 
 wings, reciprocate movement, elasticity, inertia, legs, forest canopy, powered flight, gliding 
