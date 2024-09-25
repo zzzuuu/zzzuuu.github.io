@@ -9,24 +9,43 @@ display_categories: [work]
 horizontal: false
 ---
 
-
-## Insect wing and flight evolution
+## Insect wings and flight
 
 How did insect flight evolve. To understand transition, I use modern insects that show transition beween wingless and winged forms. 
 
-tags / wing / reciprocate motion / elasticity / inertia / aerial locomotion / leg / forest canopy / flight /  
+{details}
+
+<em><strong>keywords</strong></em> 
+wings, reciprocate movement, elasticity, inertia, legs, forest canopy, powered flight, gliding 
+
 
 
 ---- 
-## Gliding arthropods 
-xx
+## Gliding 
+Gliding in wingless arthropods. 
+phasmid, ants, mantis. 
 
----
-## Hagfish slime 
+{album}
+
+<em><strong>keywords</strong></em> 
+legs / forest canopy / stability / control 
+
+<strong>references</strong>  
+* 1 
+* 2 
 
 
----
-## Bacteria locomotion 
+
+### Righting 
+
+{album}
+
+<em><strong>keywords</strong></em> 
+legs / forest canopy / stability / control 
+
+<strong>references</strong>  
+* 1 
+* 2 
 
 
 ---
@@ -35,6 +54,42 @@ xx
 Chameleons and salamanders. Tongue projection
 
 
+<em><strong>keywords</strong></em> 
+legs / forest canopy / stability / control 
+
+<strong>references</strong>  
+* 1 
+* 2 
 ---
+
+
+## Hagfish slime 
+
+Evolution of hagfish slime thread cell, epidermal thread cell. 
+
+{album}
+
+<em><strong>keywords</strong></em> 
+legs / forest canopy / stability / control 
+
+<strong>references</strong>  
+* 1 
+* 2 
+
+
+
+---
+## Bacterial carpooling 
+
+Division-of-labor 
+
+
+<em><strong>keywords</strong></em> 
+legs / forest canopy / stability / control 
+
+<strong>references</strong>  
+* 1 
+* 2 
+
 
 
