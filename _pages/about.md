@@ -35,13 +35,7 @@ Main systems:
 * Insect flight, and various controlled aerial maneuvers and gliding in arthropods.
 * Mechanisms of appendage-mediated functions in organism-environment and predator-prey interactions. 
 
-<!--
-<div class="text-center" style="width: 250px; margin: 0 auto;">
-  {% include figure.liquid path="assets/img2024/proj.flight/stick-insect-glide-3c.gif" title="Stick insect nymph gliding" class="img-fluid rounded z-depth-1" style="max-width: 100%;" %}
-  <div class="caption">
-      A wingless stick insect nymph glides toward a vertical black stripe after being dropped. 
-  </div>
-</div> -->
+
 ----
 
 ### Education
