@@ -28,19 +28,23 @@ How did insect flight evolve. To understand transition, I use modern insects tha
     Things captioned.
 </div>
 
-<figure role="group">
-    <figcaption>Caption for the whole group of images</figcaption>
 
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="half">
+  <div> 
+    <img src="http://placehold.it/600x300.jpg" alt="">
+    <p>caption 1</p>
+  </div>
+  <div> 
+    <img src="http://placehold.it/600x300.jpg" alt="">
+    <p>xx caption 2</p>
+  </div>
+</div>
 
-    <figure>
-        <img src="assets/img/3.jpg" alt="Description of picture 2">
-        <figcaption>Caption for Picture 2</figcaption>
-    </figure>
-
-</figure>
+.half div {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+}
 
 
 
