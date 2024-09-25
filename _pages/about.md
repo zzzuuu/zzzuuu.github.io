@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->  
 
-Hi, I'm **Yu Zeng** 曾昱. I’m a biologist based in the University of South Florida at Tampa, Florida.
+Hi, I'm **Yu Zeng** 曾昱, a biologist based in the University of South Florida at Tampa, Florida.
 
 ----
 
