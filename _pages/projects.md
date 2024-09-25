@@ -31,8 +31,6 @@ phasmid, ants, mantis.
 legs / forest canopy / stability / control 
 
 <strong>references</strong>  
-* 1 
-* 2 
 
 
 
@@ -44,9 +42,7 @@ legs / forest canopy / stability / control
 legs / forest canopy / stability / control 
 
 <strong>references</strong>  
-* 1 
-* 2 
-
+{% cite zeng2017biomechanics %}
 
 ---
 ## Ballistic tongues
