@@ -11,6 +11,21 @@ I am passionate about sharing my work in biomechanics and evolution with a broad
 
 If you’re a media worker, researcher, or educator, feel free to reach out for interviews, media collaborations, consulting or speaking engagements.
 
+
+----
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img2024/media/f.cover_medium.webp" title="textbook.feature" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img2024/media/theSci_big.webp" title="theSci" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img2024/media/Sci_big.webp" title="Sci" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 ---
 
 ### Media feature 
@@ -41,19 +56,6 @@ If you’re a media worker, researcher, or educator, feel free to reach out for 
 - Incredible aerial righting capabilities in wingless insects – [Live Science News](https://www.livescience.com/57247-ways-animal-flight-inspires-drone-designs.html)
 
 
-
-----
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img2024/media/f.cover_medium.webp" title="textbook.feature" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img2024/media/theSci_big.webp" title="theSci" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img2024/media/Sci_big.webp" title="Sci" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 
 ----
