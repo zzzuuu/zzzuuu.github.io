@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: research projects
+# description: research projects
 nav: false
 # nav_order: 
 display_categories: [work]
