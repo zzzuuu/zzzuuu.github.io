@@ -32,8 +32,8 @@ Biomechanics and evolution of appendages.
 My research investigates the function and evolution of appendages (such as legs, wings, tails and tongues), trying to understand why they are efficient and versatile.
 
 Main systems: 
-* Insect flight, controlled aerial maneuvers and gliding in arthropods in general.
-* Mechanisms of appendage-mediated movements, especially in feeding and predator-prey interactions. 
+* Insect flight, and various controlled aerial maneuvers and gliding in arthropods.
+* Mechanisms of appendage-mediated functions in organism-environment and predator-prey interactions. 
 
 <div class="text-center" style="width: 250px; margin: 0 auto;">
   {% include figure.liquid path="assets/img2024/proj.flight/stick-insect-glide-3c.gif" title="Stick insect nymph gliding" class="img-fluid rounded z-depth-1" style="max-width: 100%;" %}
