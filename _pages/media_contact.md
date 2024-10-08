@@ -4,7 +4,7 @@ permalink: /contact/
 title: Media & contact
 # description: Engage with me
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 I am passionate about sharing my work in biomechanics and evolution with a broader audience.  
