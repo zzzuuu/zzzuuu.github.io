@@ -29,27 +29,6 @@ How did insect flight evolve. To understand transition, I use modern insects tha
 </div>
 
 
-<div class="half">
-  <div> 
-    <img src="http://placehold.it/600x300.jpg" alt="">
-    <p>caption 1</p>
-  </div>
-  <div> 
-    <img src="http://placehold.it/600x300.jpg" alt="">
-    <p>xx caption 2</p>
-  </div>
-</div>
-
-.half div {
-  float: left;
-  width: 50%;
-  padding-right: 10px;
-}
-
-
-
-
-
 <em><strong>keywords</strong></em> 
 wings, reciprocate movement, elasticity, inertia, legs, forest canopy, powered flight, gliding 
 
