@@ -9,9 +9,12 @@ display_categories: [work]
 horizontal: false
 ---
 
-## Insect wings and flight
+----
 
-How did insect flight evolve. To understand transition, I use modern insects that show transition beween wingless and winged forms. 
+## Insect flight 
+
+Winged insects are the first flight-capable animals evolved on land. To decipher the principles underlying the complex architecture of insect flight, I examined the biomechanics and evolutionary transitions between wingless and fully-winged forms. Specifically, I study the transition between flapping and non-flapping wings and the transition between powered flapping flight, gliding and parachuting. The stick insects (Phasmatodea) with a diversity of wing morphologies is my model system. 
+{% cite zeng2020tale zeng2023beyond %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,42 +32,37 @@ How did insect flight evolve. To understand transition, I use modern insects tha
 </div>
 
 
-<em><strong>keywords</strong></em> 
-wings, reciprocate movement, elasticity, inertia, legs, forest canopy, powered flight, gliding 
+<strong>keywords</strong>
+wings, flapping, elasticity, inertia, legs, forest canopy, powered flight, gliding 
 
 
 
 ---- 
-## Gliding 
-Gliding in wingless arthropods. 
-phasmid, ants, mantis. 
+## Aerial Righting & Gliding 
+Many wingless arboreal animals can glide and perform agile aerial maneuvers. To understand the aerodynamic utilities of non-wing appendages and its relationship with the evolution of wings, I study various non-flight aerial behaviors, such as righting, falling and gliding. These study systems include a diversity of arthropods that glide and fly, such as stick insects, ants and, most recently, orchid mantises with petal-shaped legs. 
 
-{album}
+{% cite zeng2017biomechanics jusufi2011aerial zeng2015visual ortega2023air zhao2023petal zeng2020canopy %}
 
-<em><strong>keywords</strong></em> 
+
+<strong>keywords</strong>
 legs / forest canopy / stability / control 
 
-<strong>references</strong>  
+----
+## Shape-shifting appendages 
+Rapid maneuvers mediated by shape-shifting appendages and body. 
+
+{% cite zeng2018biomechanics  %}
+
 
 
 ---
-### Righting 
+## Ballistic Appendages 
 
-{album}
+Chameleons and many lungless salamanders can quickly project their tongues to capture distant prey. In both animals, tongues function as ballistic appendage for rapid reach-and-retrieval. Both ballistic tongue systems feature a tubular accelerator muscle coupled with tapered skeletal elements and slender, elongated retractor muscles. I study the biomechanical principles underlying the efficiency and versatility of these intriguing designs. 
 
-<em><strong>keywords</strong></em> 
-legs / forest canopy / stability / control 
+zeng2020self
 
-<strong>references</strong>  
-{% cite zeng2017biomechanics %}
-
----
-## Ballistic tongues
-
-Chameleons and salamanders. Tongue projection
-
-
-<em><strong>keywords</strong></em> 
+<strong>keywords</strong>
 legs / forest canopy / stability / control 
 
 <strong>references</strong>  
@@ -73,26 +71,26 @@ xx
 ---
 ## Hagfish slime 
 
-Evolution of hagfish slime thread cell, epidermal thread cell. 
+Hagfish can eject a highly dilute yet strong slime to defend against predators. This slime contains threads that rival spider silk in strength and are the longest known intracellular fibers. My research addresses the developmental mechanism and evolutionary origin of this intriguing bio-material. 
 
-{album}
+zeng2021evolution zeng2023epidermal
 
-<em><strong>keywords</strong></em> 
+<strong>keywords</strong>
 legs / forest canopy / stability / control 
 
-<strong>references</strong>  
-* 1 
-* 2 
+
+
+
 
 
 
 ---
-## Bacterial carpooling 
+## Carpooling - a noval bacterial locomotion 
 
-Division-of-labor 
+Most microorganisms are known to either swim by a flagellum or passively disperse with flow. My research reveals a new mode built on division-of-labor in the bacterium Caulobacter crescentus, where immotile cells and flagellated cells aggregate and roll like wheels. 
 
 
-<em><strong>keywords</strong></em> 
+<strong>keywords</strong>
 legs / forest canopy / stability / control 
 
 <strong>references</strong>  
