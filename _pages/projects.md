@@ -87,6 +87,11 @@ Most microorganisms are known to either swim by a flagellum or passively dispers
 <strong>keywords</strong>
 microorgnaism / colonial transport / fluid dynamics 
 
+---
+<div class="d-flex justify-content-center mt-3">
+    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.jpg" title="" class="img-fluid rounded z-depth-1" style="height: 200px;" %}
+</div>
+
 
 
 
