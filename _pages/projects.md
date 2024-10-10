@@ -33,6 +33,15 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
     Diversity of flight-related morphology in stick insects.
 </div>
 
+<div class="d-flex justify-content-center mt-3">
+    <div class="col-md-6">
+        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/diardia-flight-1_small.webp" title="phasmid flight" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption text-center">
+    A flying stick insect.
+</div>
+
 <strong>keywords</strong>
 wings, flapping, elasticity, inertia, legs, forest canopy, powered flight, gliding 
 
@@ -43,6 +52,15 @@ wings, flapping, elasticity, inertia, legs, forest canopy, powered flight, glidi
 Many wingless arboreal animals can glide and perform agile aerial maneuvers. To understand the aerodynamic utilities of non-wing appendages and its relationship with the evolution of wings, I study various non-flight aerial behaviors, such as righting, falling and gliding. These study systems include a diversity of arthropods that glide and fly, such as stick insects, ants and, most recently, orchid mantises with petal-shaped legs. 
 
 {% cite zeng2017biomechanics zeng2015visual ortega2023air zhao2023petal zeng2020canopy jusufi2011aerial %}
+
+<div class="d-flex justify-content-center mt-3">
+    <div class="col-md-6">
+        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/stick-insect-glide-3c.gif" title="et gliding" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption text-center">
+    A nympha stick insect (Extatosoma tiaratum) gliding.
+</div>
 
 
 <strong>keywords</strong>
@@ -85,14 +103,6 @@ Hagfish can eject a highly dilute yet strong slime to defend against predators. 
     Hagfish slime and gland thread cell (GTC).
 </div>
 
-<div class="d-flex justify-content-center mt-3">
-    <div class="col-md-6">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/diardia-flight-1_small.webp" title="phasmid flight" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption text-center">
-    A flying stick insect.
-</div>
 
 <strong>keywords</strong>
 biofiber / predator-prey / intracellular / morphogenesis 
