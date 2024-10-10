@@ -79,6 +79,21 @@ Rapid maneuvers mediated by shape-shifting appendages and body.
 {% cite zeng2018biomechanics  %}
 
 
+<div class="row">
+    <div class="col-md-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/spider.1.webp" title="et 1" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
+    </div>
+    <div class="col-md-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/spider.2.webp" title="et 2" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
+    </div>
+    <div class="col-md-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/spider.3.webp" title="phasmid 3" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
+    </div>
+</div>
+<div class="caption text-center">
+    Omnidirectional strike in flat spiders.
+</div>
+
 
 ---
 ## Ballistic Appendages 
