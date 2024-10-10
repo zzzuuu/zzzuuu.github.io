@@ -53,18 +53,24 @@ Many wingless arboreal animals can glide and perform agile aerial maneuvers. To 
 
 {% cite zeng2017biomechanics zeng2015visual ortega2023air zhao2023petal zeng2020canopy jusufi2011aerial %}
 
-<div class="d-flex justify-content-center mt-3">
-    <div class="col-md-6">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/stick-insect-glide-3c.gif" title="et gliding" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-md-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/et.1_small.jpg" title="et 1" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
+    </div>
+    <div class="col-md-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/et.righting.1.gif" title="et 2" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
+    </div>
+    <div class="col-md-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/stick-insect-glide-3c.gif" title="phasmid 3" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
     </div>
 </div>
 <div class="caption text-center">
-    A nympha stick insect (Extatosoma tiaratum) gliding.
+    Aerial righting and gliding in nympha stick insects (Extatosoma tiaratum).
 </div>
-
 
 <strong>keywords</strong>
 legs / forest canopy / stability / control 
+
 
 ----
 ## Shape-shifting appendages 
