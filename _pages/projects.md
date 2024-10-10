@@ -17,27 +17,16 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
 {% cite zeng2020tale zeng2023beyond %}
 
 
-<div class="row">
-    <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/f.phasmids.1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/f.phasmid.2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Phasmid body and wing diversity. 
-</div>
 
 <div class="row">
     <div class="col-md-4 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/phasmid.sample.A.gif" title="phasmid 1" class="img-fluid rounded z-depth-1" style="height: 200px; object-fit: cover;" %}
+        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/phasmid.sample.A.gif" title="phasmid 1" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
     </div>
     <div class="col-md-4 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/f.phasmids.1.gif" title="phasmid 2" class="img-fluid rounded z-depth-1" style="height: 200px; object-fit: cover;" %}
+        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/f.phasmids.1.gif" title="phasmid 2" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
     </div>
     <div class="col-md-4 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/f.phasmid.2.gif" title="phasmid 3" class="img-fluid rounded z-depth-1" style="height: 200px; object-fit: cover;" %}
+        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/f.phasmid.2.gif" title="phasmid 3" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
     </div>
 </div>
 <div class="caption text-center">
