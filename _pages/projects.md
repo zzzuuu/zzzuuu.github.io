@@ -73,6 +73,26 @@ Hagfish can eject a highly dilute yet strong slime to defend against predators. 
 
 {% cite zeng2021evolution zeng2023epidermal %}
 
+<div class="row">
+    <div class="col-md-8 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/hagfish.slime.1.webp" title="hagfish 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/hagfish.gtc.1.webp" title="hagfish 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption text-center">
+    Hagfish slime and gland thread cell (GTC).
+</div>
+
+<div class="d-flex justify-content-center mt-3">
+    <div class="col-md-6">
+        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/diardia-flight-1_small.webp" title="phasmid flight" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption text-center">
+    A flying stick insect.
+</div>
 
 <strong>keywords</strong>
 biofiber / predator-prey / intracellular / morphogenesis 
