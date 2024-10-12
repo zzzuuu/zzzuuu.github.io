@@ -9,6 +9,9 @@ display_categories: [work]
 horizontal: false
 ---
 
+
+<!-- Empty space separator -->
+<div style="height: 50px;"></div>
 ----
 
 ## Insect flight 
@@ -46,7 +49,8 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
 wings, flapping, elasticity, inertia, legs, forest canopy, powered flight, gliding 
 
 
-
+<!-- Empty space separator -->
+<div style="height: 50px;"></div>
 ---- 
 ## Aerial Righting & Gliding 
 Many wingless arboreal animals can glide and perform agile aerial maneuvers. To understand the aerodynamic utilities of non-wing appendages and its relationship with the evolution of wings, I study various non-flight aerial behaviors, such as righting, falling and gliding. These study systems include a diversity of arthropods that glide and fly, such as stick insects, ants and, most recently, orchid mantises with petal-shaped legs. 
@@ -72,6 +76,10 @@ Many wingless arboreal animals can glide and perform agile aerial maneuvers. To 
 legs / forest canopy / stability / control 
 
 
+
+<!-- Empty space separator -->
+<div style="height: 50px;"></div>
+
 ----
 ## Shape-shifting appendages 
 Rapid maneuvers mediated by shape-shifting appendages and body. 
@@ -95,6 +103,14 @@ Rapid maneuvers mediated by shape-shifting appendages and body.
 </div>
 
 
+<!-- Section 1 -->
+<div class="content-section">
+    <!-- Your content here -->
+</div>
+
+<!-- Empty space separator -->
+<div style="height: 50px;"></div>
+
 ---
 ## Ballistic Appendages 
 
@@ -105,6 +121,9 @@ predator-prey / rapid movement / precision control
 
 
 
+
+<!-- Empty space separator -->
+<div style="height: 50px;"></div>
 ---
 ## Hagfish slime 
 
@@ -130,7 +149,8 @@ biofiber / predator-prey / intracellular / morphogenesis
 
 
 
-
+<!-- Empty space separator -->
+<div style="height: 50px;"></div>
 ---
 ## Carpooling - a noval bacterial locomotion 
 
@@ -143,7 +163,8 @@ Most microorganisms are known to either swim by a flagellum or passively dispers
 microorgnaism / colonial transport / fluid dynamics 
 
 
-
+<!-- Empty space separator -->
+<div style="height: 80px;"></div>
 ---
 ## Acknowledgements 
 
