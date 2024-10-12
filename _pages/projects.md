@@ -165,6 +165,7 @@ microorgnaism / colonial transport / fluid dynamics
 
 <!-- Empty space separator -->
 <div style="height: 80px;"></div>
+
 ---
 ## Acknowledgements 
 
@@ -174,6 +175,8 @@ microorgnaism / colonial transport / fluid dynamics
 
 
 
+<!-- Empty space separator -->
+<div style="height: 80px;"></div>
 
 ---
 {% bibliography --cited %}
