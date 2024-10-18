@@ -127,7 +127,7 @@ predator-prey / rapid movement / precision control
 ---
 
 ## Hagfish thread 
-### <em> packaging of the longest intra-cellular fiber </em>
+#### <em> packaging of the longest intra-cellular fiber </em>
 
 Hagfish can eject a highly dilute yet strong slime to defend against predators. This slime contains threads that rival spider silk in strength and are the longest known intracellular fibers. My research addresses the developmental mechanism and evolutionary origin of this intriguing bio-material. 
 
