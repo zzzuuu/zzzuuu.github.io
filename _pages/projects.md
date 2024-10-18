@@ -125,7 +125,9 @@ predator-prey / rapid movement / precision control
 <!-- Empty space separator -->
 <div style="height: 50px;"></div>
 ---
-## Hagfish slime 
+
+## Hagfish thread 
+### packaging of extreme intracellular fibers
 
 Hagfish can eject a highly dilute yet strong slime to defend against predators. This slime contains threads that rival spider silk in strength and are the longest known intracellular fibers. My research addresses the developmental mechanism and evolutionary origin of this intriguing bio-material. 
 
@@ -152,6 +154,7 @@ biofiber / predator-prey / intracellular / morphogenesis
 <!-- Empty space separator -->
 <div style="height: 50px;"></div>
 ---
+
 ## Carpooling - a noval bacterial locomotion 
 
 Most microorganisms are known to either swim by a flagellum or passively disperse with flow. My research reveals a new mode built on division-of-labor in the bacterium Caulobacter crescentus, where immotile cells and flagellated cells aggregate and roll like wheels. 
