@@ -7,16 +7,17 @@ title: Projects2
 # nav_order: 3
 image_sliders:
   - slider1
+  - slider2
 ---
 
 ## Evolution and biomechanics of insect flight
 
-
-
 {% include slider.html selector="slider1" %}
 
-
+---
 ### Without wings
+
+{% include slider.html selector="slider2" %}
 
 
 ### Wings
