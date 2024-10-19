@@ -1,11 +1,17 @@
 ---
 layout: page
-# permalink: /projects/
+permalink: /projects2/
 title: Projects
 # description: Engage with me
 # nav: true
 # nav_order: 3
+image_sliders:
+  - slider1
 ---
+
+{% include slider.html selector="slider1" %}
+
+
 
 ## Evolution and biomechanics of insect flight
 
