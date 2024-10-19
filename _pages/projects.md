@@ -14,7 +14,7 @@ horizontal: false
 ----
 
 ## Insect flight 
-### 
+### <em>- origin of flight and wings</em>
 
 Winged insects are the first flight-capable animals evolved on land. To decipher the principles underlying the complex architecture of insect flight, I examined the biomechanics and evolutionary transitions between wingless and fully-winged forms. Specifically, I study the transition between flapping and non-flapping wings and the transition between powered flapping flight, gliding and parachuting. The stick insects (Phasmatodea) with a diversity of wing morphologies is my model system. 
 {% cite zeng2020tale zeng2023beyond %}
