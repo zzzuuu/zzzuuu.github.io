@@ -14,7 +14,7 @@ image_sliders:
 
 123
 
-{% include slider.html selector="slider1" %}
+{% include slider.liquid selector="slider1" %}
 
 ---
 ### Without wings
