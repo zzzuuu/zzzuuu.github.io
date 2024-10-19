@@ -4,11 +4,11 @@
   captions: true
   images:
     - src: /assets/img/1.jpg
+      title: ABC
       alt: XXX1a
     - data-src: /assets/img/2.jpg
       alt: xxx1b
     - data-src: /assets/img/3.jpg
-      data-src-2x: /assets/img/3.jpg
       alt: Use data-src-2x for HiDPI devices
     - src: /assets/img/4.jpg
       alt: Links work too
@@ -16,7 +16,7 @@
   settings:
     height: "'auto'"
     initialHeight:
-    maxHeight:
+    maxHeight: 400
     interval:
     transitionDuration:
     effect:
@@ -35,11 +35,9 @@
     - data-src: /assets/img/2.jpg
       title: This slider uses the fade effect
       alt: Instead of the default slide effect
-    - data-src: /assets/img/3.jpg
-      data-src-2x: /assets/img/3@x2.jpg
     - src: /assets/img/4.jpg
       title: Last image had no caption!
       alt: Also, this image has no link
   settings:
-    height: "'auto'"
-    effect: "'fade'"
+    height: 800
+    effect: 
