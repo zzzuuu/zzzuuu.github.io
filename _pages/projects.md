@@ -9,12 +9,12 @@ display_categories: [work]
 horizontal: false
 ---
 
-
 <!-- Empty space separator -->
 <div style="height: 50px;"></div>
 ----
 
 ## Insect flight 
+### 
 
 Winged insects are the first flight-capable animals evolved on land. To decipher the principles underlying the complex architecture of insect flight, I examined the biomechanics and evolutionary transitions between wingless and fully-winged forms. Specifically, I study the transition between flapping and non-flapping wings and the transition between powered flapping flight, gliding and parachuting. The stick insects (Phasmatodea) with a diversity of wing morphologies is my model system. 
 {% cite zeng2020tale zeng2023beyond %}
@@ -155,7 +155,8 @@ biofiber / predator-prey / intracellular / morphogenesis
 <div style="height: 50px;"></div>
 ---
 
-## Carpooling - a noval bacterial locomotion 
+## Carpooling 
+#### <em>- a noval bacterial locomotion</em>
 
 Most microorganisms are known to either swim by a flagellum or passively disperse with flow. My research reveals a new mode built on division-of-labor in the bacterium Caulobacter crescentus, where immotile cells and flagellated cells aggregate and roll like wheels. 
 
