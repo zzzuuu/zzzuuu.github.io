@@ -1,6 +1,6 @@
 # example slider
 - selector: slider1
-  bullets: false
+  bullets: true
   captions: true
   images:
     - src: /assets/img/1.jpg
@@ -12,16 +12,16 @@
       alt: Use data-src-2x for HiDPI devices
     - src: /assets/img/4.jpg
       alt: Links work too
-      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+      # href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
-    height: 400
+    height: 'auto'
     initialHeight:
     maxHeight:
     interval:
     transitionDuration:
     effect:
     disableNav:
-    keyboardNav:
+    keyboardNav: true
     previousNavSelector:
     nextNavSelector:
 
@@ -41,5 +41,5 @@
       title: Last image had no caption!
       alt: Also, this image has no link
   settings:
-    height: "'auto'"
-    effect: "'fade'"
+    height: 'auto'
+    effect: 'fade'
