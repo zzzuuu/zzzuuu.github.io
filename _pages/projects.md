@@ -160,6 +160,21 @@ biofiber / predator-prey / intracellular / morphogenesis
 
 Most microorganisms are known to either swim by a flagellum or passively disperse with flow. My research reveals a new mode built on division-of-labor in the bacterium Caulobacter crescentus, where immotile cells and flagellated cells aggregate and roll like wheels. 
 
+
+<div class="row">
+    <div class="col-md-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/rosette-overview.png" title="hagfish 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/rosette-piv-1.gif" title="hagfish 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption text-center">
+    Hagfish slime and gland thread cell (GTC).
+</div>
+
+
+
 {% cite zeng2020self %}
 
 
