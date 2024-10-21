@@ -170,7 +170,7 @@ Most microorganisms are known to either swim by a flagellum or passively dispers
     </div>
 </div>
 <div class="caption text-center">
-    Hagfish slime and gland thread cell (GTC).
+    Sessile and motile <em>Caulobacter</em> cells aggregate and form motile colonies.
 </div>
 
 
