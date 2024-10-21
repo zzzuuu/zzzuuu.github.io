@@ -27,11 +27,9 @@ Hi, I'm **Yu Zeng** 曾昱, a biologist based in the University of South Florida
 ----
 
 ### Research
-Biomechanics and evolution of appendages. 
 
-My research investigates the function and evolution of appendages (such as legs, wings, tails and tongues), trying to understand why they are efficient and versatile.
+My research investigates the function and evolution of novel appendages (such as legs, wings, tails and tongues), trying to understand why they are efficient and versatile. 
 
-Main systems: 
 * Insect flight, and various controlled aerial maneuvers and gliding in arthropods.
 * Mechanisms of appendage-mediated functions in organism-environment and predator-prey interactions. 
 
