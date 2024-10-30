@@ -51,11 +51,17 @@ wings, flapping, elasticity, inertia, legs, forest canopy, powered flight, glidi
 
 <!-- Empty space separator -->
 <div style="height: 50px;"></div>
+
 ---- 
 ## Aerial Righting & Gliding 
+### <em>- controlled aerial behaviors with wings or legs</em>
+
+<strong>keywords</strong>
+legs / forest canopy / stability / control 
+
 Many wingless arboreal animals can glide and perform agile aerial maneuvers. To understand the aerodynamic utilities of non-wing appendages and its relationship with the evolution of wings, I study various non-flight aerial behaviors, such as righting, falling and gliding. These study systems include a diversity of arthropods that glide and fly, such as stick insects, ants and, most recently, orchid mantises with petal-shaped legs. 
 
-{% cite zeng2017biomechanics zeng2015visual ortega2023air zhao2023petal zeng2020canopy jusufi2011aerial %}
+
 
 <div class="row">
     <div class="col-md-4 mt-3">
@@ -71,9 +77,18 @@ Many wingless arboreal animals can glide and perform agile aerial maneuvers. To 
 <div class="caption text-center">
     Aerial righting and gliding in nympha stick insects (Extatosoma tiaratum).
 </div>
+{% cite zeng2017biomechanics zeng2015visual ortega2023air zhao2023petal zeng2020canopy jusufi2011aerial %}
 
-<strong>keywords</strong>
-legs / forest canopy / stability / control 
+
+<div class="d-flex justify-content-center mt-3">
+    <div class="col-md-6">
+        {% include figure.liquid loading="eager" path="assets/img2024/orchid2_small2.gif" title="orchid mantis video" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption text-center">
+    An orchid mantis nymph glides after being released.
+</div>
+{% cite zhaozhao2023petal  %}
 
 
 
