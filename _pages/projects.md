@@ -88,7 +88,7 @@ Many wingless arboreal animals can glide and perform agile aerial maneuvers. To 
 <div class="caption text-center">
     An orchid mantis nymph glides after being released.
 </div>
-{% cite zhaozhao2023petal  %}
+{% cite zhao2023petal  %}
 
 
 
@@ -99,7 +99,6 @@ Many wingless arboreal animals can glide and perform agile aerial maneuvers. To 
 ## Shape-shifting appendages 
 Rapid maneuvers mediated by shape-shifting appendages and body. 
 
-{% cite zeng2018biomechanics  %}
 
 
 <div class="row">
@@ -116,12 +115,9 @@ Rapid maneuvers mediated by shape-shifting appendages and body.
 <div class="caption text-center">
     Omnidirectional strike in flat spiders.
 </div>
+{% cite zeng2018biomechanics  %}
 
 
-<!-- Section 1 -->
-<div class="content-section">
-    <!-- Your content here -->
-</div>
 
 <!-- Empty space separator -->
 <div style="height: 50px;"></div>
