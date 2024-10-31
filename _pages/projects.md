@@ -124,11 +124,25 @@ Rapid maneuvers mediated by shape-shifting appendages and body.
 
 ---
 ## Ballistic Appendages 
+#### <em> - Rapid projection and retraction </em>
 
 Chameleons and many lungless salamanders can quickly project their tongues to capture distant prey. In both animals, tongues function as ballistic appendage for rapid reach-and-retrieval. Both ballistic tongue systems feature a tubular accelerator muscle coupled with tapered skeletal elements and slender, elongated retractor muscles. I study the biomechanical principles underlying the efficiency and versatility of these intriguing designs. 
 
 <strong>keywords</strong>
 predator-prey / rapid movement / precision control 
+
+
+<div class="row">
+    <div class="col-md-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/EuryceaRealtime+Slow_adj.gif" title="hagfish 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img2024/Chameleon60fps_Combined_Small_Pub.gif" title="hagfish 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption text-center">
+    Ballistic tongues in salamanders and chameleons. Videos by Stephen Deban and Christopher V. Anderson. 
+</div>
 
 
 
@@ -183,8 +197,6 @@ Most microorganisms are known to either swim by a flagellum or passively dispers
 <div class="caption text-center">
     Sessile and motile <em>Caulobacter</em> cells aggregate and form motile colonies.
 </div>
-
-
 
 {% cite zeng2020self %}
 
