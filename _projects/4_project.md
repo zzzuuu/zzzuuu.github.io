@@ -4,7 +4,7 @@ title: Long legs
 description: another without an image
 img: assets/img/publication_preview/movie_s1_original-size-1.gif
 importance: 3
-category: fun
+category: leg
 ---
 
 Every project has a beautiful feature showcase page.

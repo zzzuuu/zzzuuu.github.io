@@ -4,7 +4,7 @@ title: Insect flight & gliding
 description: wings are flapping
 img: assets/img2024/proj.flight/wingbase_closeup1.jpg
 importance: 1
-category: work
+category: flight
 related_publications: true
 ---
 
