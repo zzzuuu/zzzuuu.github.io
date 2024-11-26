@@ -3,27 +3,29 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/img/1.jpg
-      title: ABC
-      alt: XXX1a
-    - data-src: /assets/img/2.jpg
-      alt: xxx1b
-    - data-src: /assets/img/3.jpg
-      alt: Use data-src-2x for HiDPI devices
+    - src: assets/img2024/proj.flight/phasmid.sample.A.gif
+      title: Phasmid overview
+      alt: Information
+    - data-src: assets/img2024/proj.flight/f.phasmids.1.gif
+      alt: Phasmid wings
+    - data-src: assets/img2024/proj.flight/f.phasmid.2.gif
+      alt: More info
     - src: /assets/img/4.jpg
       alt: Links work too
       # href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
     height: "'auto'"
     initialHeight:
-    maxHeight: 400
-    interval:
+    maxHeight: 
+    interval: 1500
     transitionDuration:
     effect:
     disableNav:
     keyboardNav: true
     previousNavSelector:
     nextNavSelector:
+
+
 
 - selector: slider2
   bullets: true
