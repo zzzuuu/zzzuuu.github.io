@@ -2,8 +2,8 @@
 layout: page
 permalink: /projects3/
 title: Projects3
-display_categories: [flight, leg]
-# description: Engage with me
+display_categories: [flight, leg, hydro]
+description: Research projects 
 # nav: true
 # nav_order: 3
 ---
