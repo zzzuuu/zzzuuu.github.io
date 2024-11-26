@@ -2,6 +2,7 @@
 layout: page
 permalink: /projects3/
 title: Projects3
+display_categories: [flight, leg]
 # description: Engage with me
 # nav: true
 # nav_order: 3
@@ -18,7 +19,7 @@ title: Projects3
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  
+
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
