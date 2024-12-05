@@ -6,7 +6,19 @@ display_categories: [flight, leg, hydro]
 description: Research projects 
 # nav: true
 # nav_order: 3
+image_sliders:
+  - slider1
+  - slider2
 ---
+
+
+## Test header 
+
+123
+
+{% include slider.liquid selector="slider1" %}
+
+
 
 
 <!-- pages/projects.md -->
