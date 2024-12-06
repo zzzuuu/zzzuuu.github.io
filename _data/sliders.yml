@@ -25,6 +25,49 @@
     previousNavSelector:
     nextNavSelector:
 
+# wing slider
+- selector: slider.wing
+  bullets: true
+  captions: true
+  images:
+    - src: assets/img2024/proj.wing/wing_0.jpg
+      title: 
+      alt: 
+    - src: assets/img2024/proj.wing/wing_1.jpg
+      title: 
+      alt: 
+    - src: assets/img2024/proj.wing/wing_2.jpg
+      title: 
+      alt: 
+    - src: assets/img2024/proj.wing/wing_3.jpg
+      title: 
+      alt: 
+    - src: assets/img2024/proj.wing/wing_4.jpg
+      title: 
+      alt: 
+    - src: assets/img2024/proj.wing/wing_5.jpg
+      title: 
+      alt: 
+    - src: assets/img2024/proj.wing/wing_6.jpg
+      title: 
+      alt: 
+    - src: assets/img2024/proj.wing/wing_7.jpg
+      title: 
+      alt: 
+    - src: assets/img2024/proj.wing/wing_8.jpg
+      title: 
+      alt: 
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 
+    interval: 2500
+    transitionDuration:
+    effect: "'fade'"
+    disableNav:
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
 
 
 - selector: slider2

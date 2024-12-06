@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 display_categories: [work]
 horizontal: false
+image_sliders:
+  - slider.wing
+
 ---
 
 <!-- Empty space separator -->
@@ -20,7 +23,9 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
 {% cite zeng2020tale zeng2023beyond %}
 
 
+{% include slider.liquid selector="slider.wing" %}
 
+<!--
 <div class="row">
     <div class="col-md-4 mt-3">
         {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/phasmid.sample.A.gif" title="phasmid 1" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
@@ -35,6 +40,7 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
 <div class="caption text-center">
     Diversity of flight-related morphology in stick insects.
 </div>
+-->
 
 <div class="d-flex justify-content-center mt-3">
     <div class="col-md-6">
