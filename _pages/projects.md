@@ -23,22 +23,7 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
 
 {% include slider.liquid selector="slider3" %}
 
-<!--
-<div class="row">
-    <div class="col-md-4 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/phasmid.sample.A.gif" title="phasmid 1" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
-    </div>
-    <div class="col-md-4 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/f.phasmids.1.gif" title="phasmid 2" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
-    </div>
-    <div class="col-md-4 mt-3">
-        {% include figure.liquid loading="eager" path="assets/img2024/proj.flight/f.phasmid.2.gif" title="phasmid 3" class="img-fluid rounded z-depth-1" style="object-fit: cover;" %}
-    </div>
-</div>
-<div class="caption text-center">
-    Diversity of flight-related morphology in stick insects.
-</div>
--->
+
 
 <div class="d-flex justify-content-center mt-3">
     <div class="col-md-6">
