@@ -41,5 +41,5 @@
       title: Last image had no caption!
       alt: Also, this image has no link
   settings:
-    height: 800
-    effect: 
+    height: 250
+    effect: "'fade'"
