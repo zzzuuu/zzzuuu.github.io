@@ -8,13 +8,13 @@ description: a quick overview of research projects
 image_sliders:
   - slider1
   - slider2
-  - slider.wing
+  - slider3
 ---
 
 
 ## Evolution and biomechanics of insect flight 
 
-{% include slider.liquid selector="slider.wing" %}
+{% include slider.liquid selector="slider3" %}
 
 {% include slider.liquid selector="slider1" %}
 
