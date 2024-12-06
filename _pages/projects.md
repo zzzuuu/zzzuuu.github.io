@@ -46,7 +46,7 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
     </div>
 </div>
 <div class="caption text-center">
-    A flying stick insect.
+    A male stick insect (<em>Diardia signata</em>) from Borneo, as captured by high-speed camera.
 </div>
 
 <strong>keywords</strong>
