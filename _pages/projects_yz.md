@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects2/
 title: Projects2
-# description: Engage with me
+description: a quick overview of research projects
 # nav: true
 # nav_order: 3
 image_sliders:
