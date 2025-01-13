@@ -15,7 +15,7 @@
       # href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
     height: "'auto'"
-    initialHeight:
+    initialHeight: 400
     maxHeight: 
     interval: 2500
     transitionDuration:
