@@ -58,7 +58,7 @@
       title: 
       alt: 
   settings:
-    height: "'auto'"
+    height: 200 #"'auto'"
     initialHeight:
     maxHeight: 
     interval: 2500
