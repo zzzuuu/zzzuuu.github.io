@@ -36,8 +36,8 @@ If you’re a media worker, researcher, or educator, feel free to reach out for 
 - Unique biology of stalk-eyed fruit flies – [Entomology Today](https://entomologytoday.org/2022/08/12/new-insight-eye-popping-biology-pelmatops-stalk-eyed-fruit-flies/)
 / [Science News](https://www.sciencenews.org/article/fruit-flies-eyes-head-eyestalks)
 
-- The origins of hagfish slime and future bio-mimicking materials – [eLife Magazine](https://elifesciences.org/digests/81405/how-hagfish-slime-evolved)
-/ [Chapman News](https://news.chapman.edu/2023/04/24/new-study-reveals-the-origins-of-the-hagfishs-defensive-slime-and-could-inspire-future-materials-mimicking-its-underwater-strength/)
+- The origins of hagfish slime and bio-inspired materials – [eLife Magazine](https://elifesciences.org/digests/81405/how-hagfish-slime-evolved)
+/ [Chapman News](https://news.chapman.edu/2023/04/24/new-study-reveals-the-origins-of-the-hagfishs-defensive-slime-and-could-inspire-future-materials-mimicking-its-underwater-strength/) / [SuperSTEM Magazine](https://superstem.scholastic.com/issues/2024-25/090124/slime.html?language=english)
 
 - Hagfish Slime Cells Tailored to Deter Predation – [The Scientist](https://www.the-scientist.com/news-opinion/hagfish-slime-cells-differ-to-deter-predation-69240)
 / [Newswise](https://www.newswise.com/articles/hagfishes-break-the-cell-size-limit-to-make-large-slime-threads)
