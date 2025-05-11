@@ -33,7 +33,7 @@ My research investigates the function and evolution of novel biomechanical syste
 * Flight, gliding, and controlled aerial behaviors (in insects and other arthropods)
 * Feeding biomechanics (salamanders, chameleons, and tadpoles)
 * Maneuverability (whole-organism, body parts, colonial) 
-* Biomaterial (genesis and evolution)
+* Biomaterial (genesis and evolution of hagfish slime thread)
 
 
 ----
