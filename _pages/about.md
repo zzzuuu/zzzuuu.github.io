@@ -45,6 +45,7 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 
 ### Reviewed for
 * Bioinspiration & Biomimetics
+* Biotropica
 * eLife
 * Frontiers in Ecology & Evolution 
 * Integrative and Comparative Biology
