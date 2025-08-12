@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Album
+title: Album2
 permalink: /album2/
 nav: true
 ---
