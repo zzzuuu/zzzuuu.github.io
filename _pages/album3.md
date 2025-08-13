@@ -3,6 +3,7 @@ layout: page
 title: Album3
 permalink: /album3/
 nav: true
+nav_order: 4
 ---
 
 {%- assign album_root = "assets/album1" -%}
