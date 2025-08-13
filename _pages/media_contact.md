@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: Media & contact
+title: Media & Contact
 # description: Engage with me
 nav: true
 nav_order: 4
