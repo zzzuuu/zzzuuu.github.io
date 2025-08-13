@@ -2,7 +2,7 @@
 layout: page
 title: Album3
 permalink: /album3/
-nav: true
+nav: false
 ---
 
 <style>
@@ -26,14 +26,8 @@ nav: true
   }
   .album-section-title {
     margin: 0 0 10px 0;
-    font-size: 1.25rem;
-    font-weight: 600;
-  }
-
-  /* Lightbox 标题（caption）改为白色，并使用更清晰的阴影 */
-  .lb-data .lb-caption {
-    color: #fff !important;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+    font-size: 1rem;
+    font-weight: 300;
   }
 </style>
 
@@ -50,15 +44,12 @@ nav: true
 
 {%- comment -%}
 区分：主目录图片（/assets/album1/xxx.jpg） 与 子目录图片（/assets/album1/<subdir>/xxx.jpg）
-通过 f.path | split:'/' 的长度判断：
-  主目录：["", "assets", "album1", "file.jpg"] → size = 4
-  子目录：["", "assets", "album1", "subdir", "file.jpg"] → size >= 5
 {%- endcomment -%}
 {%- assign root_imgs = all_imgs | where_exp:"f","(f.path | split:'/' | size) == 4" -%}
 {%- assign subdir_imgs = all_imgs | where_exp:"f","(f.path | split:'/' | size) >= 5" -%}
 
 {%- comment -%}
-先渲染主目录图片（缩略图不显示文件名）
+先渲染主目录图片（缩略图不显示文件名：alt 置空；Lightbox 中仍显示 data-title）
 {%- endcomment -%}
 {%- if root_imgs and root_imgs.size > 0 -%}
 <div id="album-root" class="jg">
@@ -66,7 +57,6 @@ nav: true
   {%- for f in imgs_sorted -%}
     {%- assign base = f.name | split: "." | first -%}
     <a href="{{ f.path }}" data-lightbox="album" data-title="{{ base }}">
-      <!-- 为了让缩略图不显示标题：alt 留空；但 Lightbox 仍使用 data-title 显示 -->
       <img src="{{ f.path }}" alt="" loading="lazy">
     </a>
   {%- endfor -%}
@@ -74,9 +64,7 @@ nav: true
 {%- endif -%}
 
 {%- comment -%}
-对子目录按名称分组并渲染，每个分区有分隔线与标题；
-缩略图显示文件名（去后缀），Lightbox 也显示同名（白色）；
-子目录名取 f.path 的第 4 段（index 3）
+对子目录分组渲染：缩略图显示文件名（去后缀），Lightbox 也同名
 {%- endcomment -%}
 {%- assign groups = subdir_imgs | group_by_exp: "f", "f.path | split:'/' | slice:3,1 | first" -%}
 {%- assign sorted_groups = groups | sort: "name" -%}
@@ -93,7 +81,6 @@ nav: true
       {%- for f in imgs -%}
         {%- assign base = f.name | split: "." | first -%}
         <a href="{{ f.path }}" data-lightbox="{{ cat }}" data-title="{{ base }}">
-          <!-- 子目录内缩略图：显示文件名，供 Justified Gallery captions 使用 -->
           <img src="{{ f.path }}" alt="{{ base }}" loading="lazy">
         </a>
       {%- endfor -%}
@@ -109,6 +96,17 @@ nav: true
 <script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.8.1/js/jquery.justifiedGallery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
+<!-- 放在 Lightbox2 CSS 之后，确保覆盖颜色：caption/number/链接全为白色 -->
+<style>
+  .lightbox .lb-data .lb-caption,
+  .lb-data .lb-caption,
+  .lb-data .lb-number,
+  .lb-data .lb-caption a {
+    color: #fff !important;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+  }
+</style>
+
 <script>
   (function initAlbum() {
     function run() {
@@ -120,12 +118,13 @@ nav: true
           rowHeight: 160,
           maxRowHeight: 200,
           margins: 6,
-          captions: true,       // 子目录缩略图会显示 <img alt> 作为 caption；主目录 alt 为空则不显示
+          captions: true,
+          captionsData: 'alt',    // 只用 <img alt> 作为标题来源
           lastRow: 'nojustify'
         });
       });
 
-      // Lightbox2 设置：caption 已在 data-title 中；此处只调交互
+      // Lightbox2 设置
       if (window.lightbox) {
         lightbox.option({
           wrapAround: true,
@@ -136,7 +135,7 @@ nav: true
         });
       }
 
-      // 允许“点击大图本体”关闭返回相册（除了点击遮罩和 Esc 之外）
+      // 点击大图本体关闭
       document.addEventListener('click', function(e) {
         if (e.target && e.target.classList && e.target.classList.contains('lb-image')) {
           var overlay = document.querySelector('.lightboxOverlay');
