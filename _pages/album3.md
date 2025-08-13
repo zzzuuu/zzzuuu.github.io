@@ -29,7 +29,7 @@ nav: false
   /* 分区标题样式 */
   .album-heading {
     margin: 0 0 0.75rem 0;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 300;
   }
 
@@ -38,7 +38,7 @@ nav: false
     opacity: 1 !important;
     background: rgba(0,0,0,0.2);
     padding: 3px 6px;
-    font-size: 1rem;
+    font-size: 2rem;
   }
 </style>
 
