@@ -43,10 +43,16 @@ nav: false
 -%}
 
 {%- comment -%}
-区分：主目录图片（/assets/album1/xxx.jpg） 与 子目录图片（/assets/album1/<subdir>/xxx.jpg）
+把每个文件的“相对根目录路径”取出来：
+  rel = (f.path split: album_root) 的最后一段，例如：
+  "/assets/album1/file.jpg"            → rel = "/file.jpg"
+  "/assets/album1/cat/file.jpg"        → rel = "/cat/file.jpg"
+用 rel 是否再包含 "/" 判断主目录或子目录：
+  主目录：rel 去掉前导 "/" 后不再包含 "/"
+  子目录：rel 去掉前导 "/" 后仍然包含 "/"
 {%- endcomment -%}
-{%- assign root_imgs = all_imgs | where_exp:"f","(f.path | split:'/' | size) == 4" -%}
-{%- assign subdir_imgs = all_imgs | where_exp:"f","(f.path | split:'/' | size) >= 5" -%}
+{%- assign root_imgs = all_imgs | where_exp:"f","( (f.path | split: album_root | last | remove_first: '/') contains '/' ) == false" -%}
+{%- assign subdir_imgs = all_imgs | where_exp:"f","( (f.path | split: album_root | last | remove_first: '/') contains '/' )" -%}
 
 {%- comment -%}
 先渲染主目录图片（缩略图不显示文件名：alt 置空；Lightbox 中仍显示 data-title）
@@ -64,9 +70,10 @@ nav: false
 {%- endif -%}
 
 {%- comment -%}
-对子目录分组渲染：缩略图显示文件名（去后缀），Lightbox 也同名
+对子目录分组渲染：
+  子目录名 = rel 去头 "/": "/cat/file.jpg" → "cat/file.jpg" → split:'/' | first → "cat"
 {%- endcomment -%}
-{%- assign groups = subdir_imgs | group_by_exp: "f", "f.path | split:'/' | slice:3,1 | first" -%}
+{%- assign groups = subdir_imgs | group_by_exp: "f", "(f.path | split: album_root | last | remove_first: '/' | split:'/' | first)" -%}
 {%- assign sorted_groups = groups | sort: "name" -%}
 
 {%- for g in sorted_groups -%}
@@ -81,6 +88,7 @@ nav: false
       {%- for f in imgs -%}
         {%- assign base = f.name | split: "." | first -%}
         <a href="{{ f.path }}" data-lightbox="{{ cat }}" data-title="{{ base }}">
+          <!-- 子目录缩略图：显示文件名，供 jG captions 使用 -->
           <img src="{{ f.path }}" alt="{{ base }}" loading="lazy">
         </a>
       {%- endfor -%}
@@ -96,7 +104,7 @@ nav: false
 <script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.8.1/js/jquery.justifiedGallery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-<!-- 放在 Lightbox2 CSS 之后，确保覆盖颜色：caption/number/链接全为白色 -->
+<!-- 确保在 Lightbox2 CSS 之后覆盖颜色（caption/number/链接均为白色） -->
 <style>
   .lightbox .lb-data .lb-caption,
   .lb-data .lb-caption,
