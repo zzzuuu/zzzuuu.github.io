@@ -2,7 +2,7 @@
 layout: page
 title: Album2
 permalink: /album2/
-nav: true
+nav: false
 ---
 
 <style>
