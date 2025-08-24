@@ -60,7 +60,7 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 * Scientific Reports
 * Zoomorphology
 
-
+---- 
 <h2>News</h2>
 <ul class="news-list">
   {% assign recent_news = site.posts | where_exp: "p", "p.categories contains 'news'" | sort: "date" | reverse | slice: 0, 5 %}
