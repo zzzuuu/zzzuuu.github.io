@@ -11,6 +11,10 @@ I am passionate about sharing my work in biomechanics and evolution with a broad
 
 If you’re a media worker, researcher, or educator, feel free to reach out for interviews, media collaborations, consulting or speaking engagements.
 
+----
+### email
+zeng @ berkeley.edu ,
+yuzeng @ usf.edu   
 
 ----
 <div class="row">
@@ -68,8 +72,3 @@ If you’re a media worker, researcher, or educator, feel free to reach out for 
 - The Lawrence Hall of Science, Berkeley CA
 - Conservatory of Flowers, Golden Gate Park, San Francisco, CA
 
-
-----
-### Contact information
-zeng @ berkeley.edu ,
-yuzeng @ usf.edu   
