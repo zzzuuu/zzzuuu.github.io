@@ -11,10 +11,6 @@ I am passionate about sharing my work in biomechanics and evolution with a broad
 
 If you’re a media worker, researcher, or educator, feel free to reach out for interviews, media collaborations, consulting or speaking engagements.
 
-----
-### email
-zeng @ berkeley.edu ,
-yuzeng @ usf.edu   
 
 ----
 <div class="row">
@@ -28,6 +24,11 @@ yuzeng @ usf.edu
         {% include figure.liquid loading="eager" path="assets/img2024/media/Sci_big.webp" title="Sci" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+----
+### email
+zeng @ berkeley.edu ,
+yuzeng @ usf.edu   
 
 
 ---
