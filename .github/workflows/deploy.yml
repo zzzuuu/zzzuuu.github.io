@@ -75,11 +75,20 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Setup Python 🐍
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'          
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
-          bundle exec jekyll build --lsi
+          bundle exec jekyll clean
+          bundle exec jekyll build --lsi          
+      - name: Setup Node.js ⚙️
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss

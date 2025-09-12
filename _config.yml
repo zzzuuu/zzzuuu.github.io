@@ -339,21 +339,38 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: true
   widths:
     - 480
     - 800
     - 1400
+
+  # Folders to scan
   input_directories:
     - assets/img/
+    - assets/img2024/
+
+  # Only convert static images — leave GIFs alone
   input_formats:
     - ".jpg"
     - ".jpeg"
     - ".png"
-    - ".tiff"
-    - ".gif"
+    # - ".gif"   # <- removed on purpose to avoid animated GIF → WEBP errors
+
+  # Produce WEBP variants for the allowed inputs
   output_formats:
     webp: "-quality 85"
+
+  # Be extra explicit about what to process/ignore
+  only_process_globs:
+    - "assets/img/**/*.{jpg,jpeg,png}"
+    - "assets/img2024/**/*.{jpg,jpeg,png}"
+  exclude_globs:
+    - "assets/img/**/*.webp"
+    - "assets/img2024/**/*.webp"
+    - "assets/img/publication_preview/**/*.webp"
+    - "assets/img/publication_preview/**/*.{gif,mp4,webm}"
+
 
 # -----------------------------------------------------------------------------
 # Optional Features
