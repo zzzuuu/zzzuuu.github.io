@@ -46,3 +46,19 @@ jobs:
         with:
           event-type: prettier-failed-on-pr
           client-payload: '{"pr_number": "${{ github.event.number }}", "artifact_url": "${{ steps.artifact-upload.outputs.artifact-url }}", "run_id": "${{ github.run_id }}"}'
+
+  format_on_push:
+    if: ${{ github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master') }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+      - run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+      - run: npx prettier . --write
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(prettier): auto-format [skip ci]"
