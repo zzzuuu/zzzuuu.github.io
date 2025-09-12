@@ -349,12 +349,14 @@ imagemagick:
   input_directories:
     - assets/img/
     - assets/img2024/
+    - assets/album1/
 
   # Only convert static images — leave GIFs alone
   input_formats:
     - ".jpg"
     - ".jpeg"
     - ".png"
+    - ".webp" 
     # - ".gif"   # <- removed on purpose to avoid animated GIF → WEBP errors
 
   # Produce WEBP variants for the allowed inputs
