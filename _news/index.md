@@ -6,7 +6,7 @@ permalink: /news/
 
 <h1>All News</h1>
 <ul class="news-archive">
-  {% assign all_news = site.posts | where_exp: "p", "p.categories contains 'news' 'sample-posts" | sort: "date" | reverse %}
+{% assign all_news = site.posts | where_exp: "p", "p.categories contains 'news' or p.categories contains 'sample-posts'" | sort: "date" | reverse %}
   {% for post in all_news %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
