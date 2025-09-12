@@ -28,28 +28,30 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # --- build the Jekyll site so Liquid is rendered ---
+      # Build the site so _site/ exists and responsive images get generated
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: "3.2.2"
           bundler-cache: true
 
-      - name: Install gems
-        run: bundle install
+      - name: Install ImageMagick & WebP
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick webp
 
       - name: Build site
-        run: bundle exec jekyll build --trace
+        run: |
+          export JEKYLL_ENV=production
+          bundle exec jekyll build --lsi
 
-      # --- check links on the built site, not the source ---
       - name: Link Checker 🔗
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
+          # Check ONLY the built HTML and resolve absolute /assets paths against _site
           args: >
-            --verbose
-            --no-progress
-            --accept 200,403
-            --exclude ^data:
-            --exclude ^file:
-            ./_site
+            --base "./_site"
+            --verbose --no-progress
+            "_site/**/*.html"
+            --exclude "data:*"
