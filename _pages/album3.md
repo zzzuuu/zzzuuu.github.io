@@ -63,6 +63,7 @@ e.g. path split: ["", "assets", "album1", "<cat>", "file.jpg"]
 {%- for g in sorted_groups -%}
 {%- assign cat = g.name -%}
 {%- if cat and cat != "" -%}
+
 <hr class="section-sep">
 <h2 class="album-heading">
 {{ cat | replace:"-"," " | replace:"_"," " | capitalize }}

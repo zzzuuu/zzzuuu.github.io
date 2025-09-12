@@ -371,7 +371,6 @@ imagemagick:
     - "assets/img/publication_preview/**/*.webp"
     - "assets/img/publication_preview/**/*.{gif,mp4,webm}"
 
-
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
