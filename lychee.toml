@@ -1,0 +1,13 @@
+# lychee.toml (repo root)
+exclude_path = [
+  "_includes/",
+  "_layouts/",
+  "_news/index.md"
+]
+
+exclude = [
+  "\\{\\{.*\\}\\}",   # ignore any Liquid link like {{ ... }}
+  "\\{%.*%\\}"       # ignore Liquid tags like {% ... %}
+]
+
+accept = ["200..=299", "403"]  # optional: treat 403 as OK
