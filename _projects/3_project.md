@@ -3,7 +3,7 @@ layout: page
 title: Bacteria cell
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: 
+redirect:
 importance: 3
 category: leg
 ---

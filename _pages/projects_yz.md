@@ -11,47 +11,42 @@ image_sliders:
   - slider3
 ---
 
-
-## Evolution and biomechanics of insect flight 
+## Evolution and biomechanics of insect flight
 
 {% include slider.liquid selector="slider3" %}
 
 {% include slider.liquid selector="slider1" %}
 
 ---
+
 ### Without wings
 
 {% include slider.html selector="slider2" %}
 
 ---
+
 ### Wings
 
-
-tags / wing / reciprocate motion / elasticity / inertia / aerial locomotion / leg / forest canopy / flight /  
-
+tags / wing / reciprocate motion / elasticity / inertia / aerial locomotion / leg / forest canopy / flight /
 
 <!-- xxxxxx -->
+
 ## Hagfish
-### Gland thread cells 
 
-tags / biomaterial / thread / 
+### Gland thread cells
 
+tags / biomaterial / thread /
 
 <!-- xxxxxx -->
-## Appendages 
 
-### Ballistic tongue 
+## Appendages
 
-Stuff 
+### Ballistic tongue
+
+Stuff
 
 ### Leg
 
-
-
 <!-- xxxxxx -->
-## Bacterial 
 
-
-
-
-
+## Bacterial

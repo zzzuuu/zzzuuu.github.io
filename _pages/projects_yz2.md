@@ -3,7 +3,7 @@ layout: page
 permalink: /projects3/
 title: Projects3
 display_categories: [flight, leg, hydro]
-description: Research projects 
+description: Research projects
 # nav: true
 # nav_order: 3
 image_sliders:
@@ -11,15 +11,11 @@ image_sliders:
   - slider2
 ---
 
-
-## Test header 
+## Test header
 
 123
 
 {% include slider.liquid selector="slider1" %}
-
-
-
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -33,7 +29,9 @@ image_sliders:
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
-  {% if page.horizontal %}
+
+{% if page.horizontal %}
+
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
@@ -51,8 +49,6 @@ image_sliders:
   {% endfor %}
 
 {% else %}
-
-
 
 <!-- Display projects without categories -->
 
@@ -78,6 +74,3 @@ image_sliders:
   {% endif %}
 {% endif %}
 </div>
-
-
-

@@ -35,7 +35,6 @@ Make your photos 1/3, 2/3, or full width.
     Caption two. Also good. 
 </div>
 
-
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.

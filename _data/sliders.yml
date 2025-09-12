@@ -15,8 +15,8 @@
       # href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
     height: 400
-    initialHeight: 
-    maxHeight: 
+    initialHeight:
+    maxHeight:
     interval: 2500
     transitionDuration:
     effect: "'fade'"
@@ -31,36 +31,36 @@
   captions: true
   images:
     - src: assets/img2024/proj.wing/wing_0.jpg
-      title: 
-      alt: 
+      title:
+      alt:
     - src: assets/img2024/proj.wing/wing_1.jpg
-      title: 
-      alt: 
+      title:
+      alt:
     - src: assets/img2024/proj.wing/wing_2.jpg
-      title: 
-      alt: 
+      title:
+      alt:
     - src: assets/img2024/proj.wing/wing_3.jpg
-      title: 
-      alt: 
+      title:
+      alt:
     - src: assets/img2024/proj.wing/wing_4.jpg
-      title: 
-      alt: 
+      title:
+      alt:
     - src: assets/img2024/proj.wing/wing_5.jpg
-      title: 
-      alt: 
+      title:
+      alt:
     - src: assets/img2024/proj.wing/wing_6.jpg
-      title: 
-      alt: 
+      title:
+      alt:
     - src: assets/img2024/proj.wing/wing_7.jpg
-      title: 
-      alt: 
+      title:
+      alt:
     - src: assets/img2024/proj.wing/wing_8.jpg
-      title: 
-      alt: 
+      title:
+      alt:
   settings:
     height: 200 #"'auto'"
     initialHeight:
-    maxHeight: 
+    maxHeight:
     interval: 2500
     transitionDuration:
     effect: "'fade'"
@@ -68,7 +68,6 @@
     keyboardNav: true
     previousNavSelector:
     nextNavSelector:
-
 
 - selector: slider2
   bullets: true

@@ -45,28 +45,28 @@ nav: false
 <div id="album-page">
   {%- assign album_root = "assets/album1" -%}
 
-  {%- assign all_imgs = site.static_files
+{%- assign all_imgs = site.static_files
     | where_exp:"f","f.path contains album_root"
     | where_exp:"f","f.extname != '.json'"
     | where_exp:"f","f.extname != '.md'"
     | where_exp:"f","f.extname != '.txt'"
   -%}
 
-  {%- comment -%}
-  分组：/assets/album1/<cat>/<file>
-  e.g. path split: ["", "assets", "album1", "<cat>", "file.jpg"]
-  取 index 3 为组名
-  {%- endcomment -%}
-  {%- assign groups = all_imgs | group_by_exp: "f", "f.path | split:'/' | slice:3,1 | first" -%}
-  {%- assign sorted_groups = groups | sort: "name" -%}
+{%- comment -%}
+分组：/assets/album1/<cat>/<file>
+e.g. path split: ["", "assets", "album1", "<cat>", "file.jpg"]
+取 index 3 为组名
+{%- endcomment -%}
+{%- assign groups = all_imgs | group_by_exp: "f", "f.path | split:'/' | slice:3,1 | first" -%}
+{%- assign sorted_groups = groups | sort: "name" -%}
 
-  {%- for g in sorted_groups -%}
-    {%- assign cat = g.name -%}
-    {%- if cat and cat != "" -%}
-      <hr class="section-sep">
-      <h2 class="album-heading">
-        {{ cat | replace:"-"," " | replace:"_"," " | capitalize }}
-      </h2>
+{%- for g in sorted_groups -%}
+{%- assign cat = g.name -%}
+{%- if cat and cat != "" -%}
+<hr class="section-sep">
+<h2 class="album-heading">
+{{ cat | replace:"-"," " | replace:"_"," " | capitalize }}
+</h2>
 
       <div class="jg" data-album="{{ cat }}">
         {%- assign imgs = g.items | sort: "name" -%}
@@ -78,7 +78,9 @@ nav: false
         {%- endfor -%}
       </div>
     {%- endif -%}
-  {%- endfor -%}
+
+{%- endfor -%}
+
 </div>
 
 <!-- 样式 -->

@@ -4,11 +4,11 @@
 
 title: Yu Zeng Ph.D. # the website title (if blank, full name will be used instead)
 first_name: Yu
-middle_name: 
+middle_name:
 last_name: ZENG
 email: yuzeng@usf.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  YZ description. 
+  YZ description.
 footer_text:
 keywords: # jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -308,11 +308,10 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
-  google_scholar_id: true 
+  google_scholar_id: true
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords:
-  [abstract, arxiv, bibtex_show, blog, code, pdf, poster, slides, supp, video]
+filtered_bibtex_keywords: [abstract, arxiv, bibtex_show, blog, code, pdf, poster, slides, supp, video]
 #  [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
@@ -321,7 +320,6 @@ more_authors_animation_delay: 5 # more authors are revealed on click using anima
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true
-
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
