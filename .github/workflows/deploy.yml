@@ -74,16 +74,52 @@ jobs:
           set -euo pipefail
           shopt -s globstar nullglob
           widths=(800 1400)
+
+          have() { command -v "$1" >/dev/null 2>&1; }
+
           for f in assets/**/*.{jpg,jpeg,JPG,JPEG,png,PNG,gif,GIF,tiff,TIFF}; do
             base="${f%.*}"
+            ext="${f##*.}"
+            ext="${ext,,}"  # lower-case
+
             for w in "${widths[@]}"; do
               out="${base}-${w}.webp"
               [[ -f "$out" ]] && continue
-              cwebp -quiet -q 82 -resize "$w" 0 "$f" -o "$out" \
-              || magick "$f" -resize "${w}x" -quality 82 "WEBP:$out"
-              echo "✅ created $out"
+
+              # Try cwebp first
+              if have cwebp; then
+                if [[ "$ext" == "gif" ]]; then
+                  # Convert only the first frame of GIFs to avoid animated issues
+                  # Use ImageMagick if available; otherwise try gif2webp
+                  if have convert; then
+                    if convert "${f}[0]" -resize "${w}x" -quality 82 "$out"; then
+                      echo "✅ created $out (GIF first frame via convert)"
+                      continue
+                    fi
+                  fi
+                  if have gif2webp && gif2webp -q 82 -resize "$w" 0 "$f" -o "$out"; then
+                    echo "✅ created $out (animated GIF via gif2webp)"
+                    continue
+                  fi
+                else
+                  if cwebp -quiet -q 82 -resize "$w" 0 "$f" -o "$out"; then
+                    echo "✅ created $out (cwebp)"
+                    continue
+                  fi
+                fi
+              fi
+
+              # Fallback to ImageMagick's 'convert' if available
+              if have convert; then
+                if convert "$f" -resize "${w}x" -quality 82 "$out"; then
+                  echo "✅ created $out (convert)"
+                  continue
+                fi
+              fi
+              echo "⚠️  Skipped $f at ${w}px (no suitable converter or conversion failed)"
             done
-          done        
+          done
+          
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
