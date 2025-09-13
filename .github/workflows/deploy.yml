@@ -68,6 +68,22 @@ jobs:
           bundler-cache: true
       - name: Install ImageMagick & WebP tools
         run: sudo apt-get update && sudo apt-get install -y imagemagick webp
+      - name: Generate responsive WebP variants (800/1400) in assets/**
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s globstar nullglob
+          widths=(800 1400)
+          for f in assets/**/*.{jpg,jpeg,JPG,JPEG,png,PNG,gif,GIF,tiff,TIFF}; do
+            base="${f%.*}"
+            for w in "${widths[@]}"; do
+              out="${base}-${w}.webp"
+              [[ -f "$out" ]] && continue
+              cwebp -quiet -q 82 -resize "$w" 0 "$f" -o "$out" \
+              || magick "$f" -resize "${w}x" -quality 82 "WEBP:$out"
+              echo "✅ created $out"
+            done
+          done        
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
