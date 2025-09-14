@@ -151,13 +151,18 @@ jobs:
           exclude:
             - assets/jupyter/**
           YML
+      - name: Remove notebooks in CI (temporary)
+        shell: bash
+        run: |
+          rm -rf assets/jupyter || true
 
       - name: Install and Build 🔧
+        shell: bash
         run: |
-          pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll clean
           bundle exec jekyll build --lsi --config _config.yml,_config_ci.yml
+
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
         with:
