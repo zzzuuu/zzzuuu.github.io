@@ -150,11 +150,23 @@ jobs:
           cat > _config_ci.yml <<'YML'
           exclude:
             - assets/jupyter/**
+            - "**/*.ipynb"
           YML
+          echo "Using _config_ci.yml:"
+          cat _config_ci.yml
       - name: Remove notebooks in CI (temporary)
         shell: bash
         run: |
           rm -rf assets/jupyter || true
+      - name: Remove notebooks in CI
+        shell: bash
+        run: |
+          set -e
+          rm -rf assets/jupyter || true
+          # Belt-and-suspenders: delete any stray .ipynb anywhere
+          find . -type f -name "*.ipynb" -print -delete || true
+          echo "Remaining .ipynb files (should be none):"
+          find . -type f -name "*.ipynb" || true
 
       - name: Install and Build 🔧
         shell: bash
