@@ -132,18 +132,32 @@ jobs:
         with:
           python-version: '3.11'          
 
-      - name: Install Jupyter CLI (for jekyll-jupyter-notebook) NEW
+      - name: Install Jupyter CLI (for jekyll-jupyter-notebook)
         shell: bash
         run: |
-          pip3 install --upgrade jupyter nbconvert notebook
-          # Ensure pip’s script dir is on PATH (where 'jupyter' gets installed)
-          echo "$HOME/.local/bin" >> "$GITHUB_PATH"          
+          python -m pip install --upgrade pip
+          python -m pip install jupyter nbconvert notebook
+          # Add the correct Scripts directory for THIS Python to PATH
+          echo "$(python - <<'PY' 
+          import sysconfig; print(sysconfig.get_path('scripts')) 
+          PY
+          )" >> "$GITHUB_PATH"
+          # Sanity check
+          which jupyter || true
+          jupyter --version || true
+      - name: Create CI config to skip notebooks
+        run: |
+          cat > _config_ci.yml <<'YML'
+          exclude:
+            - assets/jupyter/**
+          YML
+
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll clean
-          bundle exec jekyll build --lsi          
+          bundle exec jekyll build --lsi --config _config.yml,_config_ci.yml
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
         with:
