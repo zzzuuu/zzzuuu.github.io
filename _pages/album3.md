@@ -50,7 +50,6 @@ nav: false
     | where_exp:"f","f.extname == '.jpg' or f.extname == '.jpeg' or f.extname == '.png' or f.extname == '.gif'"
   -%}
 
-
 {%- comment -%}
 分组：/assets/album1/<cat>/<file>
 e.g. path split: ["", "assets", "album1", "<cat>", "file.jpg"]
