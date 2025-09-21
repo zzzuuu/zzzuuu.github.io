@@ -13,7 +13,7 @@ image_sliders:
 
 <!-- Empty space separator -->
 
-## <div style="height: 50px;"></div>
+<div style="height: 50px;"></div>
 
 ## Biomechanics and evolution of ballistic tongues
 
@@ -36,7 +36,7 @@ predator-prey interaction / rapid movement / precision control
 
 <!-- Empty space separator -->
 
-## <div style="height: 50px;"></div>
+<div style="height: 50px;"></div>
 
 ## Biomechanics and evolution of insect flight
 

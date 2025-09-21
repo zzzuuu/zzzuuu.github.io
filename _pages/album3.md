@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Album3
+title: Gallery
 permalink: /album3/
-nav: false
+nav: true
 ---
 
 <style>
