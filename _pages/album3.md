@@ -47,10 +47,9 @@ nav: false
 
 {%- assign all_imgs = site.static_files
     | where_exp:"f","f.path contains album_root"
-    | where_exp:"f","f.extname != '.json'"
-    | where_exp:"f","f.extname != '.md'"
-    | where_exp:"f","f.extname != '.txt'"
+    | where_exp:"f","f.extname == '.jpg' or f.extname == '.jpeg' or f.extname == '.png' or f.extname == '.gif'"
   -%}
+
 
 {%- comment -%}
 分组：/assets/album1/<cat>/<file>
