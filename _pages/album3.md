@@ -51,7 +51,6 @@ nav: true
     | where_exp:"f","f.path contains '-480.' == false and f.path contains '-800.' == false and f.path contains '-1400.' == false"
   -%}
 
-
 {%- comment -%}
 分组：/assets/album1/<cat>/<file>
 e.g. path split: ["", "assets", "album1", "<cat>", "file.jpg"]
