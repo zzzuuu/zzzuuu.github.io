@@ -54,7 +54,6 @@ nav_order: 5
   | where_exp:"f","f.path contains '-1400' == false"
 -%}
 
-
 {%- comment -%}
 分组：/assets/album1/<cat>/<file>
 e.g. path split: ["", "assets", "album1", "<cat>", "file.jpg"]
