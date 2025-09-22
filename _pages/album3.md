@@ -47,10 +47,13 @@ nav_order: 5
   {%- assign album_root = "assets/album1" -%}
 
 {%- assign all_imgs = site.static_files
-    | where_exp:"f","f.path contains album_root"
-    | where_exp:"f","f.extname == '.jpg' or f.extname == '.jpeg' or f.extname == '.png' or f.extname == '.gif' or f.extname == '.webp'"
-    | where_exp:"f","f.path contains '-480.' == false and f.path contains '-800.' == false and f.path contains '-1400.' == false"
-  -%}
+  | where_exp:"f","f.path contains album_root"
+  | where_exp:"f","f.extname == '.jpg' or f.extname == '.jpeg' or f.extname == '.png' or f.extname == '.gif' or f.extname == '.webp'"
+  | where_exp:"f","f.path contains '-480' == false"
+  | where_exp:"f","f.path contains '-800' == false"
+  | where_exp:"f","f.path contains '-1400' == false"
+-%}
+
 
 {%- comment -%}
 分组：/assets/album1/<cat>/<file>
