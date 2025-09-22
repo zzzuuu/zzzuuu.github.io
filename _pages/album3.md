@@ -3,6 +3,7 @@ layout: page
 title: Gallery
 permalink: /album3/
 nav: true
+nav_order: 5
 ---
 
 <style>
