@@ -47,11 +47,8 @@ nav_order: 5
   {%- assign album_root = "assets/album1" -%}
 
 {%- assign all_imgs = site.static_files
-    | where_exp:"f","f.path contains album_root"
-    | where_exp:"f","f.extname == '.jpg' or f.extname == '.jpeg' or f.extname == '.png' or f.extname == '.gif' or f.extname == '.webp'"
-    | where_exp:"f","not f.path contains '-480'"
-    | where_exp:"f","not f.path contains '-800'"
-    | where_exp:"f","not f.path contains '-1400'"
+  | where_exp:"f","f.path contains album_root"
+  | where_exp:"f","f.extname == '.jpg' or f.extname == '.jpeg' or f.extname == '.png' or f.extname == '.gif' or f.extname == '.webp'"
 -%}
 
 {%- comment -%}
@@ -74,6 +71,11 @@ e.g. path split: ["", "assets", "album1", "<cat>", "file.jpg"]
       <div class="jg" data-album="{{ cat }}">
         {%- assign imgs = g.items | sort: "name" -%}
         {%- for f in imgs -%}
+          {%- assign p = f.path -%}
+          {%- if p contains '-480.' or p contains '-800.' or p contains '-1400.' -%}
+            {%- continue -%}
+          {%- endif -%}
+
           {%- assign basename = f.name | remove: f.extname -%}
           <a href="{{ f.path }}" data-lightbox="{{ cat }}" data-title="{{ basename }}">
             <img src="{{ f.path }}" alt="{{ basename }}" loading="lazy">
