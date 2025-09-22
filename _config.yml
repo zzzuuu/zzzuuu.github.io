@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yu Zeng Ph.D. # the website title (if blank, full name will be used instead)
+title: Yu Zeng Ph.D. (曾昱) # the website title (if blank, full name will be used instead)
 first_name: Yu
 middle_name:
 last_name: ZENG
@@ -68,12 +68,12 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: yuzenghiking # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: dryuzeng # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: woSCugkAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-2651-227X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
