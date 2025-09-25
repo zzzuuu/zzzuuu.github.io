@@ -121,7 +121,6 @@ jobs:
               echo "⚠️  Skipped $f at ${w}px (no suitable converter or conversion failed)"
             done
           done
-
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -169,14 +168,12 @@ jobs:
           find . -type f -name "*.ipynb" -print -delete || true
           echo "Remaining .ipynb files (should be none):"
           find . -type f -name "*.ipynb" || true
-
       - name: Install and Build 🔧
         shell: bash
         run: |
           export JEKYLL_ENV=production
           bundle exec jekyll clean
           bundle exec jekyll build --lsi --config _config.yml,_config_ci.yml
-
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
         with:
