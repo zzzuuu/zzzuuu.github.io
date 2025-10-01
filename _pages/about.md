@@ -39,7 +39,7 @@ My research investigates the function and evolution of novel biomechanical syste
 
 ### Education
 
-I received my Ph.D. in Integrative Biology from University of California at Berkeley (advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/)).
+I received my Ph.D. in Integrative Biology from University of California at Berkeley,  with support from the Museum of Vertebrate Zoology (advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/)). 
 
 ---
 
