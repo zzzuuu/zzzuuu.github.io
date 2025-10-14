@@ -1,7 +1,7 @@
 ---
 layout: post
 title: interview with WMNF radio
-date: 2025-09-17 
+date: 2025-09-17
 inline: false
 related_posts: false
 categories: news

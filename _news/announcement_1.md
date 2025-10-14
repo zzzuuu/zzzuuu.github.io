@@ -1,7 +1,7 @@
 ---
 layout: post
 title: interview with Reuters
-date: 2025-10-09 
+date: 2025-10-09
 inline: true
 related_posts: false
 categories: news
