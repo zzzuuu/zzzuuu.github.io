@@ -1,13 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: interview with Reuters
+date: 2025-10-09 
 inline: true
 related_posts: false
 categories: news
 ---
 
-A simple inline announcement.
-
-<!--sss-->
-
-<more stuff
+[Reuters interview on ballistic tongues](https://www.reuters.com/video/watch/idRW209309102025RP1/)
