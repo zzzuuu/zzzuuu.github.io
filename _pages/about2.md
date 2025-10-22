@@ -82,7 +82,6 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 </ul>
 <p><a href="{{ '/news/' | relative_url }}">More news →</a></p>
 
-
 <!--
 <h2>News</h2>
 <ul class="news-list">
@@ -99,8 +98,6 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 </ul>
 <p><a href="{{ '/news/' | relative_url }}">More news →</a></p>
 -->
-
-
 
 <!--
 ### Email
