@@ -65,7 +65,7 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 
 <h2>News</h2>
 <ul class="news-list">
-  {% assign recent_news = site.news | sort: "date" | reverse | slice: 0, 5 %}
+{% assign recent_news = site.news | where_exp: "p", "p.categories contains 'news'" | sort: "date" | reverse | slice: 0, 5 %}
   {% for post in recent_news %}
     <li>
       {% if post.external_url %}
