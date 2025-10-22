@@ -65,6 +65,27 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 
 <h2>News</h2>
 <ul class="news-list">
+  {% assign recent_news = site.news | sort: "date" | reverse | slice: 0, 5 %}
+  {% for post in recent_news %}
+    <li>
+      {% if post.external_url %}
+        <a href="{{ post.external_url }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
+      {% else %}
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% endif %}
+      <span class="date"> — {{ post.date | date: "%Y-%m-%d" }}</span>
+      {% if post.summary %}
+        <div class="summary">{{ post.summary }}</div>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+<p><a href="{{ '/news/' | relative_url }}">More news →</a></p>
+
+
+<!--
+<h2>News</h2>
+<ul class="news-list">
 {% assign recent_news = site.news | where_exp: "p", "p.categories contains 'news'" | sort: "date" | reverse | slice: 0, 5 %}
   {% for post in recent_news %}
     <li>
@@ -77,6 +98,9 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
   {% endfor %}
 </ul>
 <p><a href="{{ '/news/' | relative_url }}">More news →</a></p>
+-->
+
+
 
 <!--
 ### Email
