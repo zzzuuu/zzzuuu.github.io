@@ -62,7 +62,6 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 </ul>
 <p><a href="{{ '/news/' | relative_url }}">More news →</a></p>
 
-
 ---
 
 ### Reviewed for
