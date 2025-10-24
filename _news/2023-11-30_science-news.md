@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-11-15
-title: articled featured by Science News
+date: 2023-11-30
+title: orchid mantis paper featured by Science News
 inline: true
 related_posts: false
 categories: news
