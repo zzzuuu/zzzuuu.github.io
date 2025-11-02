@@ -28,10 +28,10 @@ Hi, I'm **Yu Zeng** 曾昱, a biologist based in the University of South Florida
 
 ### Research
 
-My research investigates the function and evolution of novel biomechanical systems (such as legs, wings, tails and tongues), trying to understand why they are efficient and how they are built, often at organism-environment interface and in predator-prey interactions.
+My research investigates the function and evolution of novel biomechanical systems (such as legs, wings, tails and tongues), trying to understand why they are efficient and how they are built, often at organism-environment interface and in predator-prey interactions. 
 
 - Flight, gliding, and controlled aerial behaviors, mainly in insects and other arthropods
-- Biomechanics and evolution of feeding apparatus and of prehensile and manipulative apparatus (e.g. tongues and limbs)
+- Feeding apparatus and of prehensile and manipulative endeffectors in organisms (e.g. tongues, appendages and limbs)
 - Maneuverability (whole-organism, body parts, colonial)
 - Biomaterial (genesis and evolution of hagfish slime thread)
 
