@@ -20,7 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 image_sliders:
   - slider1
-
 ---
 
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
