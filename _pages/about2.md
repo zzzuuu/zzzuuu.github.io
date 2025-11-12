@@ -30,6 +30,7 @@ image_sliders:
 .profile { margin-top: 660px; }
 </style>
 
+--- 
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->
 
