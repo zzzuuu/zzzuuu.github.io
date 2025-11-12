@@ -20,7 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 image_sliders:
   - slider1
-  
 ---
 
 {% include slider.html selector="slider1" %}
