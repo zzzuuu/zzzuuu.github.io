@@ -14,7 +14,7 @@
       alt: Links work too
       # href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
   settings:
-    height: 400
+    height: 600
     initialHeight:
     maxHeight:
     interval: 2500

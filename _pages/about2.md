@@ -17,12 +17,18 @@ news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+image_sliders:
+  - slider1
+
 ---
 
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->
 
 Hi, I'm **Yu Zeng** 曾昱, a biologist based in the University of South Florida at Tampa, Florida.
+
+{% include slider.liquid selector="slider1" %}
 
 ---
 
