@@ -22,7 +22,9 @@ image_sliders:
   - slider1
 ---
 
-{% include slider.html selector="slider1" %}
+<div style="max-width: 1000px; margin: 0 auto; text-align: center;">
+  {% include slider.html selector="slider1" %}
+</div>
 
 <style>
 .profile { margin-top: 660px; }
