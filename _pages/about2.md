@@ -25,7 +25,7 @@ image_sliders:
 {% include slider.html selector="slider1" %}
 
 <style>
-.profile { margin-top: 620px; }
+.profile { margin-top: 660px; }
 </style>
 
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
