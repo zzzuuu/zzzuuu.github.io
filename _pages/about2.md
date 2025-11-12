@@ -22,12 +22,15 @@ image_sliders:
   - slider1
 ---
 
+{% include slider.html selector="slider1" %}
+
+
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->
 
 Hi, I'm **Yu Zeng** 曾昱, a biologist based in the University of South Florida at Tampa, Florida.
 
-{% include slider.liquid selector="slider1" %}
+
 
 ---
 
