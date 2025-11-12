@@ -20,9 +20,14 @@ social: true # includes social icons at the bottom of the page
 
 image_sliders:
   - slider1
+  
 ---
 
 {% include slider.html selector="slider1" %}
+
+<style>
+.profile { margin-top: 620px; }
+</style>
 
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->
