@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<article class="page page-landing">
+
+  {%- if page.image_sliders -%}
+    <div class="landing-hero">
+      {%- for slider in page.image_sliders -%}
+        {%- comment -%}
+          If your include is `_includes/slider.liquid`, use:
+          {% include slider.liquid selector=slider %}
+          If it’s `slider.html`, keep `.html`. Both work if present.
+        {%- endcomment -%}
+        {% include slider.html selector=slider %}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+
+  {%- if content -%}
+  <section class="landing-content">
+    {{ content }}
+  </section>
+  {%- endif -%}
+
+</article>
