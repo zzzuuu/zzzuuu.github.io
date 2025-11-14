@@ -12,7 +12,6 @@ image_sliders:
   <p>Short intro, highlights, or links can go here.</p>
 </div>
 
-
 <div style="max-width: 1000px; margin: 0 auto; text-align: center;">
   {% include slider.html selector="slider_hero" %}
 </div>

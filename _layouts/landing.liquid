@@ -3,12 +3,12 @@ layout: default
 ---
 <article class="page page-landing">
   {%- if page.image_sliders -%}
-  <div class="landing-hero">
-    {%- for slider in page.image_sliders -%}
-      {% include slider.liquid selector=slider %}
-    {%- endfor -%}
-  </div>
-{%- endif -%}
+    <div class="landing-hero">
+      {%- for slider in page.image_sliders -%}
+        {% include slider.liquid selector=slider %}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
 
   {%- if content -%}
     <section class="landing-content">
