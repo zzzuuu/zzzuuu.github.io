@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-
 <article class="page page-landing">
-
   {%- if page.image_sliders -%}
     <div class="landing-hero">
       {%- for slider in page.image_sliders -%}
@@ -18,9 +16,8 @@ layout: default
   {%- endif -%}
 
   {%- if content -%}
-  <section class="landing-content">
-    {{ content }}
-  </section>
+    <section class="landing-content">
+      {{ content }}
+    </section>
   {%- endif -%}
-
 </article>

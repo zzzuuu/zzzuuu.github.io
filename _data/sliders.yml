@@ -1,13 +1,13 @@
-# front page 
+# front page
 - selector: slider_hero
   bullets: true
   captions: true
   images:
     - src: assets/img2024/proj.flight/phasmid.sample.A.gif
       title: "Phasmid overview"
-      alt: alttext 
+      alt: alttext
     - data-src: assets/img2024/proj.flight/f.phasmids.1.gif
-      alt: xx2 
+      alt: xx2
     - data-src: assets/img2024/proj.wing/wing_3.jpg
       alt: Insect gliding
   settings:
@@ -15,8 +15,6 @@
     interval: 3000
     effect: "'fade'"
     keyboardNav: true
-
-
 
 # example slider
 - selector: slider1
