@@ -3,13 +3,17 @@
   bullets: true
   captions: true
   images:
-    - src: assets/img2024/proj.flight/phasmid.sample.A.gif
-      title: "Phasmid overview"
-      alt: alttext
-    - data-src: assets/img2024/proj.flight/f.phasmids.1.gif
-      alt: xx2
-    - data-src: assets/img2024/proj.wing/wing_3.jpg
-      alt: Insect gliding
+    - src: assets/album1/stick insects/nymph.Et.jpg
+      title: Newly hatched Extatosoma tiaratume
+      alt: 
+    - data-src: assets/album1/salamanders/YuZeng05.jpg
+      alt: Esatina salamander
+    - data-src: assets/album1/chameleons/YuZeng_27.jpg
+      alt: Veiled chameleon
+    - data-src: assets/album1/stick insects/A.tanarata.jpg
+      alt: Short-winged stick insect
+    - data-src: assets/album1/creatures/flat-spider.jpg
+      alt: Flat spider
   settings:
     height: 680
     interval: 3000
