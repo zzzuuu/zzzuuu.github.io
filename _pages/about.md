@@ -2,6 +2,9 @@
 layout: about
 title: About
 permalink: /about
+nav: true
+nav_order: 1
+
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
