@@ -11,4 +11,3 @@ image_sliders:
   <h2>Soft, fast, and precise: </h2>
   <p>the mechanics behind nature’s most remarkable movements.</p>
 </div>
-
