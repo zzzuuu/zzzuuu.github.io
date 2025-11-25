@@ -14,6 +14,4 @@ image_sliders:
 
 <!--
 <div style="max-width: 1000px; margin: 0 auto; text-align: center;">
-  {% include slider.html selector="slider_hero" %}
-</div>
--->
+  {% include slider.html selector="slider_hero" %} </div> -->
