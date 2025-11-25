@@ -8,7 +8,8 @@ image_sliders:
 ---
 
 <div class="home-intro">
-  <p>Soft, fast, and precise: the mechanics behind nature’s most remarkable movements.</p>
+  <h2>Soft, fast, and precise: </h2>
+  <p>the mechanics behind nature’s most remarkable movements.</p>
 </div>
 
 <!--
