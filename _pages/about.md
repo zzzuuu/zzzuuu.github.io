@@ -31,7 +31,6 @@ Hi, I'm **Yu Zeng** 曾昱, a biologist based in the University of South Florida
 
 ### Research
 
-
 I study how nature achieves the impossible—controlling motion at extreme speed, distance, and precision—and translate these principles into new scientific frameworks and engineering systems.
 
 My research investigates novel biomechanical systems (such as legs, wings, tails and tongues) at organism-environment interface and in predator-prey interactions.
