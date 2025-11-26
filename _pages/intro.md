@@ -6,6 +6,12 @@ nav_exclude: true
 image_sliders:
   - slider_hero
 ---
+<style>
+  .home-intro p {
+    font-size: 1.4rem;   /* default is ~1rem */
+    line-height: 1.6;
+  }
+</style>
 
 <div class="home-intro">
   <h2>Soft, fast, and precise: </h2>
