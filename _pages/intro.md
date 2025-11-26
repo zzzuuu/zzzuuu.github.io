@@ -6,6 +6,7 @@ nav_exclude: true
 image_sliders:
   - slider_hero
 ---
+
 <style>
   .home-intro p {
     font-size: 1.4rem;   /* default is ~1rem */
