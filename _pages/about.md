@@ -83,6 +83,7 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 - Journal of Comparative Physiology
 - PeerJ
 - Physical Review Letters
+- Phyllomedusa: Journal of Herpetology
 - PLOS ONE
 - Scientific Reports
 - Zoomorphology

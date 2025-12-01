@@ -3,14 +3,14 @@
   bullets: true
   captions: true
   images:
+    - data-src: assets/album1/chameleons/YuZeng_27.jpg
+      alt: Veiled chameleon
+    - data-src: assets/album1/salamanders/YuZeng05.jpg
+      alt: Esatina salamander
     - src: assets/album1/stick insects/nymph.Et.jpg
       alt: Newly hatched Extatosoma tiaratume
     - src: assets/img2024/proj.flight/stick-insect-glide-3c.gif
       alt: gliding Extatosoma tiaratume nymph
-    - data-src: assets/album1/salamanders/YuZeng05.jpg
-      alt: Esatina salamander
-    - data-src: assets/album1/chameleons/YuZeng_27.jpg
-      alt: Veiled chameleon
     - data-src: assets/album1/stick insects/A.tanarata.jpg
       alt: Short-winged stick insect
     - data-src: assets/album1/creatures/flat-spider.jpg
