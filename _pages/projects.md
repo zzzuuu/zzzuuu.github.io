@@ -36,7 +36,7 @@ predator-prey interaction / rapid movement / precision control
 
 <!-- Empty space separator -->
 
-## <div style="height: 50px;"></div>
+<div style="height: 20px;"></div>
 
 ## Biomechanics and evolution of insect flight
 
@@ -59,7 +59,7 @@ wings, flapping, elasticity, inertia, legs, forest canopy, powered flight, glidi
 {% cite zeng2020tale zeng2023beyond %}
 
 <!-- Empty space separator -->
-<div style="height: 50px;"></div>
+<div style="height: 20px;"></div>
 
 ---
 
@@ -97,7 +97,7 @@ Many wingless arboreal animals can glide and perform agile aerial maneuvers. To 
 {% cite zhao2023petal  %}
 
 <!-- Empty space separator -->
-<div style="height: 50px;"></div>
+<div style="height: 20px;"></div>
 
 ---
 
@@ -122,7 +122,7 @@ Rapid maneuvers mediated by shape-shifting appendages and body.
 {% cite zeng2018biomechanics  %}
 
 <!-- Empty space separator -->
-<div style="height: 50px;"></div>
+<div style="height: 20px;"></div>
 
 ---
 
@@ -133,7 +133,7 @@ Rapid maneuvers mediated by shape-shifting appendages and body.
 Feeding and locomotion in frog tadpoles.
 
 <!-- Empty space separator -->
-<div style="height: 50px;"></div>
+<div style="height: 20px;"></div>
 
 ---
 
@@ -162,7 +162,7 @@ biofiber / predator-prey / intracellular / morphogenesis
 
 <!-- Empty space separator -->
 
-## <div style="height: 50px;"></div>
+<div style="height: 20px;"></div>
 
 ## Flagellated carpooling
 
@@ -188,7 +188,7 @@ Most microorganisms are known to either swim by a flagellum or passively dispers
 microorgnaism / colonial transport / fluid dynamics
 
 <!-- Empty space separator -->
-<div style="height: 80px;"></div>
+<div style="height: 50px;"></div>
 
 ---
 
