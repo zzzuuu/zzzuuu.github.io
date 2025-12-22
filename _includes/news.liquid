@@ -19,24 +19,24 @@
         {% for item in news limit: news_limit %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
-              <td>
-                {%- assign link = item.external_url | default: item.url | default: "" -%}
-                {%- if item.external_url -%}
-                  <a class="news-title" href="{{ item.external_url }}" target="_blank" rel="noopener noreferrer">
-                    {{ item.title }}
-                  </a>
-                {%- else -%}
-                  <a class="news-title" href="{{ item.url | relative_url }}">
-                    {{ item.title }}
-                  </a>
-                {%- endif -%}
+            <td>
+              {%- assign link = item.external_url | default: item.url | default: '' -%}
+              {%- if item.external_url -%}
+                <a class="news-title" href="{{ item.external_url }}" target="_blank" rel="noopener noreferrer">
+                  {{ item.title }}
+                </a>
+              {%- else -%}
+                <a class="news-title" href="{{ item.url | relative_url }}">
+                  {{ item.title }}
+                </a>
+              {%- endif -%}
 
-                {%- if item.inline and item.content != blank -%}
-                  <div class="news-inline">
-                    {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-                  </div>
-                {%- endif -%}
-              </td>
+              {%- if item.inline and item.content != blank -%}
+                <div class="news-inline">
+                  {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                </div>
+              {%- endif -%}
+            </td>
           </tr>
         {% endfor %}
       </table>
