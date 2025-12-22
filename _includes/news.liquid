@@ -20,15 +20,15 @@
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {% else %}
+                {% if item.external_url %}
+                  <a class="news-title" href="{{ item.external_url }}" target="_blank" rel="noopener noreferrer">
+                    {{ item.title }}
+                  </a>
                 {% else %}
-                  {% if item.external_url %}
-                    <a class="news-title" href="{{ item.external_url }}" target="_blank" rel="noopener noreferrer">
-                      {{ item.title }}
-                    </a>
-                  {% else %}
-                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                  {% endif %}
+                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                 {% endif %}
+              {% endif %}
             </td>
           </tr>
         {% endfor %}
