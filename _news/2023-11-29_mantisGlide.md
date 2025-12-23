@@ -7,3 +7,4 @@ related_posts: false
 categories: news
 external_url: https://www.sciencedirect.com/science/article/pii/S0960982223015178
 ---
+[external link](https://www.sciencedirect.com/science/article/pii/S0960982223015178)

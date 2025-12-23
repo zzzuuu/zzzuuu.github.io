@@ -7,3 +7,4 @@ related_posts: false
 categories: news
 external_url: https://linkinghub.elsevier.com/retrieve/pii/S0960982225010309
 ---
+[external link](https://linkinghub.elsevier.com/retrieve/pii/S0960982225010309)
