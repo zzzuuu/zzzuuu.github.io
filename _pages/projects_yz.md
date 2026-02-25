@@ -28,7 +28,6 @@ description: a quick overview of research projects
 
   </div>
 
-  
   <div class="col-md-3">
     <div class="mb-3">
       {% include figure.liquid loading="eager"
@@ -40,9 +39,9 @@ description: a quick overview of research projects
     <div class="caption text-center">
       A male stick insect (<em>Diardia signata</em>) from Borneo, as captured by high-speed camera.
     </div>
+
   </div>
 </div>
-
 
 <!--
 {% include slider.liquid selector="slider3" %}
