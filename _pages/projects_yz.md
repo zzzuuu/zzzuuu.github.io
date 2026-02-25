@@ -25,6 +25,7 @@ description: a quick overview of research projects
     </p>
 
     {% cite zeng2020tale zeng2023beyond %}
+
   </div>
 
   <div class="col-md-3">
@@ -44,7 +45,6 @@ description: a quick overview of research projects
   A male stick insect (<em>Diardia signata</em>) from Borneo, as captured by high-speed camera.
 </div>
 
-
 <!--
 {% include slider.liquid selector="slider3" %}
 {% include slider.liquid selector="slider1" %}
@@ -53,8 +53,6 @@ description: a quick overview of research projects
 ---
 
 ### Without wings
-
-
 
 ---
 
