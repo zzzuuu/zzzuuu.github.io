@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Projects2
+permalink: /projects2/
 description: overview of research projects
 # nav: true
 # nav_order: 2
 # display_categories: [work]
-# horizontal: false
+horizontal: false
 ---
 
 ---
