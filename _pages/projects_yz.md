@@ -18,8 +18,10 @@ horizontal: false
 
 Chameleons and many lungless salamanders can quickly project their tongues to capture distant prey. In both animals, tongues function as ballistic appendage for rapid reach-and-retrieval. Both ballistic tongue systems feature a tubular accelerator muscle coupled with tapered skeletal elements and slender, elongated retractor muscles. I study the biomechanical principles underlying the efficiency and versatility of these intriguing designs.
 
+<p>
 <strong>keywords</strong><br>
 predator-prey interaction / rapid movement / precision control
+</p>
 
   </div>
 
@@ -49,8 +51,10 @@ predator-prey interaction / rapid movement / precision control
 
 Winged insects are the first flight-capable animals evolved on land. To decipher the principles underlying the complex architecture of insect flight, I examined the biomechanics and evolutionary transitions between wingless and fully-winged forms. Specifically, I study the transition between flapping and non-flapping wings and the transition between powered flapping flight, gliding and parachuting. The stick insects (Phasmatodea) with a diversity of wing morphologies is my model system.
 
+<p>
 <strong>keywords</strong><br>
 wings, flapping, elasticity, inertia, legs, forest canopy, powered flight, gliding
+</p>
 
 {% cite zeng2020tale zeng2023beyond %}
 
@@ -76,8 +80,10 @@ wings, flapping, elasticity, inertia, legs, forest canopy, powered flight, glidi
 <div class="row align-items-start">
   <div class="col-md-9">
 
+<p>
 <strong>keywords</strong><br>
 legs / forest canopy / stability / control
+</p>
 
 Many wingless arboreal animals can glide and perform agile aerial maneuvers. To understand the aerodynamic utilities of non-wing appendages and its relationship with the evolution of wings, I study various non-flight aerial behaviors, such as righting, falling and gliding.
 
@@ -126,10 +132,6 @@ Rapid maneuvers mediated by shape-shifting appendages and body.
     </div>
 
     <div class="mb-3">
-      {% include figure.liquid path="assets/img2024/spider.2.webp" class="img-fluid rounded z-depth-1" %}
-    </div>
-
-    <div class="mb-3">
       {% include figure.liquid path="assets/img2024/spider.3.webp" class="img-fluid rounded z-depth-1" %}
     </div>
 
@@ -164,8 +166,10 @@ Feeding and locomotion in frog tadpoles.
 
 Hagfish can eject a highly dilute yet strong slime to defend against predators. This slime contains threads that rival spider silk in strength.
 
+<p>
 <strong>keywords</strong><br>
 biofiber / predator-prey / intracellular / morphogenesis
+</p>
 
 {% cite zeng2021evolution zeng2023epidermal %}
 
@@ -197,8 +201,10 @@ biofiber / predator-prey / intracellular / morphogenesis
 
 Most microorganisms either swim or drift. My research reveals a new mode based on collective rolling behavior.
 
+<p>
 <strong>keywords</strong><br>
 microorganism / colonial transport / fluid dynamics
+</p>
 
 {% cite zeng2020self %}
 
@@ -225,11 +231,8 @@ microorganism / colonial transport / fluid dynamics
 
 ## Acknowledgements
 
-<div class="row">
-  <div class="col-md-9"></div>
-  <div class="col-md-3">
-    {% include figure.liquid path="assets/img2024/acknowledgements.jpeg" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="d-flex justify-content-center mt-3">
+    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.jpeg" title="" class="img-fluid rounded z-depth-1" style="height: 100px;" %}
 </div>
 
 ---
