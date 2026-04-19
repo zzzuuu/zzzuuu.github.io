@@ -18,23 +18,24 @@ horizontal: false
 
 Ballistic tongues are specialized, rapidly launched tongues used by slow predators on land to capture distant prey. They are found in three vertebrates: chameleons (family Chamaeleonidae); lungless salamanders (family Plethodontidae) and frogs (order Anura). They are fast, typically moving at mean speeds of 1–3 m/s and reaching prey within about 200 milliseconds.
 
-My research focus on
-
-- biomechanical principles underlying the efficiency and versatility of ballistic tongues
-- evolution of ballistic tongues
-- ballistic tongue-inspired engineering and technology
+My research focus on: 
+<ul>
+  <li>biomechanical principles underlying the efficiency and versatility of ballistic tongues</li>
+  <li>evolution of ballistic tongues</li>
+  <li>ballistic tongue-inspired engineering and technology</li>
+</ul>
 
 {% cite zeng2025convergently %}
 
 <div class="d-flex justify-content-center mt-3">
     <div class="col-md-6">
-        {% include figure.liquid loading="eager" path="assets/img2024/f.tongue.sample.1.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img2024/f.tongue.sample.1.png" title="" class="img-fluid rounded z-depth-1" style="height: 50px;" %}
     </div>
 </div>
 
   </div>
 
-  <div class="col-md-3">
+    <div class="col-md-3">
 
     <div class="mb-3">
       {% include figure.liquid loading="eager" path="assets/img2024/EuryceaRealtime+Slow_adj.gif" class="img-fluid rounded z-depth-1" %}
@@ -241,7 +242,7 @@ microorganism / colonial transport / fluid dynamics
 ## Acknowledgements
 
 <div class="d-flex justify-content-center mt-3">
-    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.jpeg" title="" class="img-fluid rounded z-depth-1" style="height: 100px;" %}
+    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.jpeg" title="" class="img-fluid rounded z-depth-1" style="height: 50px;" %}
 </div>
 
 ---
