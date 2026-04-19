@@ -11,7 +11,7 @@ horizontal: false
 
 ---
 
-## Biomechanics and evolution of ballistic tongues
+## Ballistic tongues
 
 <div class="row align-items-start">
   <div class="col-md-9">
