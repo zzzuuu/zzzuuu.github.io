@@ -94,6 +94,7 @@ Many wingless arboreal animals can glide and perform agile aerial maneuvers. To 
 <div class="caption text-center">
     An orchid mantis nymph glides after being released.
 </div>
+
 {% cite zhao2023petal  %}
 
 <!-- Empty space separator -->

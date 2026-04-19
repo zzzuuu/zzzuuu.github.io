@@ -16,12 +16,21 @@ horizontal: false
 <div class="row align-items-start">
   <div class="col-md-9">
 
-Chameleons and many lungless salamanders can quickly project their tongues to capture distant prey. In both animals, tongues function as ballistic appendage for rapid reach-and-retrieval. Both ballistic tongue systems feature a tubular accelerator muscle coupled with tapered skeletal elements and slender, elongated retractor muscles. I study the biomechanical principles underlying the efficiency and versatility of these intriguing designs.
+Ballistic tongues are specialized, rapidly launched tongues used by slow predators on land to capture distant prey. They are found in three vertebrates: chameleons (family Chamaeleonidae); lungless salamanders (family Plethodontidae) and frogs (order Anura). They are fast, typically moving at mean speeds of 1–3 m/s and reaching prey within about 200 milliseconds. 
 
-<p>
-<strong>keywords</strong><br>
-predator-prey interaction / rapid movement / precision control
-</p>
+My research focus on 
+- biomechanical principles underlying the efficiency and versatility of ballistic tongues
+- evolution of ballistic tongues 
+- ballistic tongue-inspired engineering and technology
+
+{% cite zeng2025convergently %}
+
+<div class="d-flex justify-content-center mt-3">
+    <div class="col-md-6">
+        {% include figure.liquid loading="eager" path="assets/img2024/f.tongue.sample.1.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
   </div>
 
@@ -44,7 +53,7 @@ predator-prey interaction / rapid movement / precision control
 
 ---
 
-## Biomechanics and evolution of insect flight
+## Insect flight
 
 <div class="row align-items-start">
   <div class="col-md-9">
