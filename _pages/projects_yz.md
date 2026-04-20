@@ -29,7 +29,7 @@ My research focuses on:
 {% cite zeng2025convergently %}
 
 <div class="d-flex justify-content-center mt-3">
-    <div class="col-md-6">
+    <div class="col-md-8">
         {% include figure.liquid loading="eager" path="assets/img2024/f.tongue.sample.1.png" title="" class="img-fluid rounded z-depth-1" style="height: 80px;" %}
     </div>
 </div>
@@ -243,7 +243,7 @@ microorganism / colonial transport / fluid dynamics
 ## Acknowledgements
 
 <div class="d-flex justify-content-center mt-3">
-    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.png" title="" class="img-fluid rounded z-depth-1" style="height: 80px;" %}
+    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.png" title="" class="img-fluid rounded z-depth-1" style="width: 120px;" %}
 </div>
 
 ---
