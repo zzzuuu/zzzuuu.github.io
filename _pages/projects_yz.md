@@ -243,7 +243,7 @@ microorganism / colonial transport / fluid dynamics
 ## Acknowledgements
 
 <div class="d-flex justify-content-center mt-3">
-    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.jpeg" title="" class="img-fluid rounded z-depth-1" style="height: 50px;" %}
+    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.png" title="" class="img-fluid rounded z-depth-1" style="height: 80px;" %}
 </div>
 
 ---
