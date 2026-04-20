@@ -62,7 +62,7 @@ horizontal: false
 <div class="row align-items-start">
   <div class="col-md-9">
 
-Winged insects are the first flight-capable animals evolved on land. To decipher the origin of winged insects and evolution of insect flight, I examined the biomechanics and evolutionary transitions between wingless and winged forms in extant taxa. 
+Winged insects are the first flight-capable animals evolved on land. To decipher the origin of winged insects and evolution of insect flight, I examined the biomechanics and evolutionary transitions between wingless and winged forms in extant taxa.
 
 <p>Using the stick insects (Phasmatodea) as a model system, I study:
 <ul>
