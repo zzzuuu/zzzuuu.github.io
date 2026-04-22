@@ -93,10 +93,11 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
 
 # <<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+
 ### Aerial Righting
->>>>>>> e077cf856a1b57bea89e2e37cb80267c1dad25b4
+
+> > > > > > > e077cf856a1b57bea89e2e37cb80267c1dad25b4
 
 > > > > > > > f1df7570de890e98ba18f4906021007f95046389
 
