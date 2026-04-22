@@ -59,6 +59,7 @@ horizontal: false
 
 ## Insect flight
 
+### Flight evolution 
 <div class="row align-items-start">
   <div class="col-md-9">
 
@@ -91,42 +92,53 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
 
 ---
 
-## Aerial Righting & Gliding
+### Aerial Righting 
 
 <div class="row align-items-start">
   <div class="col-md-9">
 
-<p>
+Aerial righting in wingless arthrpods. 
+
 <strong>keywords</strong><br>
-legs / forest canopy / stability / control
-</p>
-
-Many wingless arboreal animals can glide and perform agile aerial maneuvers. To understand the aerodynamic utilities of non-wing appendages and its relationship with the evolution of wings, I study various non-flight aerial behaviors, such as righting, falling and gliding.
-
-{% cite zeng2017biomechanics zeng2015visual ortega2023air zhao2023petal zeng2020canopy jusufi2011aerial %}
+legs / stability / control
 
   </div>
 
   <div class="col-md-3">
-
-    <div class="mb-3">
-      {% include figure.liquid path="assets/img2024/et.1_small.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-
-    <div class="mb-3">
-      {% include figure.liquid path="assets/img2024/et.righting.1.gif" class="img-fluid rounded z-depth-1" %}
-    </div>
-
-    <div class="mb-3">
-      {% include figure.liquid path="assets/img2024/proj.flight/stick-insect-glide-3c.gif" class="img-fluid rounded z-depth-1" %}
-    </div>
-
+    {% include figure.liquid path="assets/img2024/et.righting.1.gif" class="img-fluid rounded z-depth-1" %}
     <div class="caption text-center" style="font-size: 0.85rem;">
-      Aerial righting and gliding in stick insects.
+      Aerial righting behavior.
     </div>
-
   </div>
 </div>
+
+
+{% cite zeng2017biomechanics ortega2023air jusufi2011aerial %}
+
+---
+
+### Gliding 
+
+<div class="row align-items-start">
+  <div class="col-md-9">
+
+Gliding as the evolutionary intermediate between parachuting and flapping flight. 
+
+<strong>keywords</strong><br>
+forest canopy / glide / aerodynamics
+
+  </div>
+
+  <div class="col-md-3">
+    {% include figure.liquid path="assets/img2024/proj.flight/stick-insect-glide-3c.gif" class="img-fluid rounded z-depth-1" %}
+    <div class="caption text-center" style="font-size: 0.85rem;">
+      Gliding in stick insects.
+    </div>
+  </div>
+</div>
+
+{% cite zeng2015visual zhao2023petal zeng2020canopy %}
+
 
 ---
 
@@ -248,7 +260,7 @@ microorganism / colonial transport / fluid dynamics
 ## Funding sources
 
 <div class="d-flex justify-content-center mt-3">
-    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.png" title="" class="img-fluid rounded z-depth-1" style="width: 120px;" %}
+    {% include figure.liquid loading="eager" path="assets/img2024/acknowledgements.png" title="" class="img-fluid rounded z-depth-1" style="width: 80px;" %}
 </div>
 
 ---
