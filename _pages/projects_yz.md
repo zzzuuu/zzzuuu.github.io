@@ -59,8 +59,12 @@ horizontal: false
 
 ## Insect flight
 
+<<<<<<< HEAD
+#### • Flight evolution 
+=======
 ### Flight evolution
 
+>>>>>>> f1df7570de890e98ba18f4906021007f95046389
 <div class="row align-items-start">
   <div class="col-md-9">
 
@@ -91,17 +95,18 @@ Winged insects are the first flight-capable animals evolved on land. To decipher
   </div>
 </div>
 
----
 
+<<<<<<< HEAD
+=======
 ### Aerial Righting
+>>>>>>> f1df7570de890e98ba18f4906021007f95046389
+
+#### • Aerial Righting 
 
 <div class="row align-items-start">
   <div class="col-md-9">
 
 Aerial righting in wingless arthrpods.
-
-<strong>keywords</strong><br>
-legs / stability / control
 
   </div>
 
@@ -115,17 +120,16 @@ legs / stability / control
 
 {% cite zeng2017biomechanics ortega2023air jusufi2011aerial %}
 
----
 
-### Gliding
+
+#### • Gliding 
 
 <div class="row align-items-start">
   <div class="col-md-9">
 
 Gliding as the evolutionary intermediate between parachuting and flapping flight.
 
-<strong>keywords</strong><br>
-forest canopy / glide / aerodynamics
+
 
   </div>
 
