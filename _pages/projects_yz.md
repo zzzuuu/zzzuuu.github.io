@@ -91,7 +91,7 @@ The stick insects exhibit a continuous spectrum in wing size and wing aerodynami
   </div>
 </div>
 
-----
+---
 
 #### • Aerial Righting
 
@@ -99,7 +99,7 @@ The stick insects exhibit a continuous spectrum in wing size and wing aerodynami
   <div class="col-md-9">
 
 Aerial righting is the first stage of a series of controlled behaviors in a falling insect.
-My research use stick insects as a model to show how aerial righting is done in small arthropods {% cite zeng2017biomechanics ortega2023air jusufi2011aerial %}. 
+My research use stick insects as a model to show how aerial righting is done in small arthropods {% cite zeng2017biomechanics ortega2023air jusufi2011aerial %}.
 
   </div>
 
@@ -111,14 +111,14 @@ My research use stick insects as a model to show how aerial righting is done in 
   </div>
 </div>
 
+---
 
-----
 #### • Gliding
 
 <div class="row align-items-start">
   <div class="col-md-9">
 
-Many wingless arthropods (e.g. ants, stick insects, and spiders) can perform steep glides after falling from height. I study why and how they glide, and how gliding may mediate the transition between parachuting and powered flapping flight {% cite zeng2015visual zhao2023petal zeng2020canopy %}. 
+Many wingless arthropods (e.g. ants, stick insects, and spiders) can perform steep glides after falling from height. I study why and how they glide, and how gliding may mediate the transition between parachuting and powered flapping flight {% cite zeng2015visual zhao2023petal zeng2020canopy %}.
 
   </div>
 
@@ -130,8 +130,6 @@ Many wingless arthropods (e.g. ants, stick insects, and spiders) can perform ste
   </div>
 </div>
 
-
-
 ---
 
 ## Shape-shifting appendages
@@ -140,7 +138,6 @@ Many wingless arthropods (e.g. ants, stick insects, and spiders) can perform ste
   <div class="col-md-9">
 
 The flat spiders can strike prey from any direction. These maneuvers are performed with high angular speed thanks to highly coordinated leg movements {% cite zeng2018biomechanics %}.
-
 
   </div>
 
@@ -183,8 +180,7 @@ Feeding and locomotion in frog tadpoles.
 <div class="row align-items-start">
   <div class="col-md-9">
 
-Hagfish can eject a highly dilute yet strong slime to defend against predators. This slime contains threads that rival spider silk in strength. My work examines the evolutionary origin and development of these thread cells {% cite zeng2021evolution zeng2023epidermal %}. 
-
+Hagfish can eject a highly dilute yet strong slime to defend against predators. This slime contains threads that rival spider silk in strength. My work examines the evolutionary origin and development of these thread cells {% cite zeng2021evolution zeng2023epidermal %}.
 
   </div>
 
@@ -213,7 +209,6 @@ Hagfish can eject a highly dilute yet strong slime to defend against predators. 
   <div class="col-md-9">
 
 Most microorganisms either swim or drift. My research reveals a new mode based on collective rolling behavior, in which the mobile and immobile cells aggregate and move together as rolling colonies {% cite zeng2020self %}.
-
 
   </div>
   <div class="col-md-3">
