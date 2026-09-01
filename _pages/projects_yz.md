@@ -26,7 +26,7 @@ horizontal: false
   <li>ballistic tongue-inspired technology</li>
 </ul>
 
-The latest finding features a shared biomechanical architecture for ballistic launch in chameleons and salamanders {% cite zeng2025convergently %}.
+The latest finding features a shared biomechanical architecture for ballistic launch in chameleons and salamanders {% cite zeng2025convergently zeng2026ballistic %}.
 
 </p>
 

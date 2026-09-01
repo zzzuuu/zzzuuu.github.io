@@ -3,12 +3,14 @@
   bullets: true
   captions: true
   images:
+    - data-src: assets/album1/Italy field trip 2026/work.in.cave.jpg
+      alt: Fieldwork in an Italian cave, Aug 2026
+    - data-src: assets/album1/Italy field trip 2026/speleomantes.italicus.jpg
+      alt: European cave salamander
     - data-src: assets/album1/Korea field trip 2026/karsenia.2.jpg
       alt: Korean crevis salamander
     - data-src: assets/album1/Korea field trip 2026/img_5185_adj.jpg
-      alt: Fieldwork in an Italian cave
-    - data-src: assets/album1/Italy field trip 2026/speleomantes.italicus.jpg
-      alt: European cave salamander
+      alt: Fieldwork in South Korea, May 2026
     - data-src: assets/album1/chameleons/YuZeng_27.jpg
       alt: Veiled chameleon
     - data-src: assets/album1/salamanders/YuZeng05.jpg
