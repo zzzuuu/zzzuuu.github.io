@@ -27,7 +27,6 @@
     effect: "'fade'"
     keyboardNav: true
 
-
 # example slider
 - selector: slider1
   bullets: true
