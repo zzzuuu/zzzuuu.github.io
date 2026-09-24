@@ -25,26 +25,27 @@ social: true # includes social icons at the bottom of the page
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->
 
-Hi, I'm **Yu Zeng** 曾昱, a biologist based in the University of South Florida at Tampa, Florida.
+Hi, I'm **Yu Zeng** 曾昱, a comparative biomechanist and organismal biologist at the University of South Florida in Tampa, Florida. 
 
 ---
 
 ### Research
 
-I study how nature achieves the impossible—controlling motion at extreme speed, distance, and precision—and translate these principles into new scientific frameworks and engineering systems.
+I study how organisms achieve extraordinary motion—combining speed, reach, precision, and control—and uncover the biomechanical principles underlying these capabilities. I am particularly interested in how high-performance mechanisms originate and diversify through evolution, and how their design principles can inspire new engineering systems.
 
-My research investigates novel biomechanical systems (such as legs, wings, tails and tongues) at organism-environment interface and in predator-prey interactions.
+I use these biological systems both to understand organismal function and evolution and as models for developing new mechanisms for actuation, manipulation, and control.
 
-- Flight, gliding, and controlled aerial behaviors, mainly in insects and other arthropods
-- High-performance prehensile and manipulative endeffectors in organisms (e.g. tongues, pincer appendages and limbs)
-- Maneuverability (whole-organism, body parts, colonial)
-- Biomaterial (genesis and evolution of hagfish slime thread)
+    - **Aerial locomotion and control** — righting, gliding, maneuvering, and the evolutionary origins of flight
+    - **Rapid actuation and manipulation** — ballistic projection, prehensile structures, and biological end effectors
+    - **Morphological reconfiguration and maneuverability** — how organisms and body parts change geometry to control movement and interaction
+    - **Functional biomaterials** — formation, mechanics, and evolution of biological materials such as hagfish slime threads
 
 ---
 
 ### Education
 
-I received my Ph.D. in Integrative Biology from University of California at Berkeley, with support from the Museum of Vertebrate Zoology (advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/)).
+I received my Ph.D. in Integrative Biology from University of California at Berkeley (advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/)).
+
 
 ---
 
@@ -70,8 +71,12 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 
 ---
 
-### Reviewed for
 
+### Professional service
+
+**Associate Editor:** [Acta Herpetologica](https://oaj.fupress.net/index.php/ah/index)
+
+**Reviewer for:** 
 - Bioinspiration & Biomimetics
 - Biotropica
 - eLife
@@ -91,9 +96,6 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 
 ---
 
-### Editorial services
-
-- Associate editor, [Acta Herpetologica](https://oaj.fupress.net/index.php/ah/index)
 
 <!--
 ### Email
