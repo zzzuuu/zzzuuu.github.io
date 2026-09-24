@@ -48,7 +48,8 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 
 ---
 
-<h2>Recent updates</h2>
+### News
+
 <ul class="news-list">
   {% assign recent_news = site.news | where_exp: "p", "p.categories contains 'news'" | sort: "date" | reverse | slice: 0, 5 %}
   {% for post in recent_news %}
@@ -87,6 +88,12 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 - PLOS ONE
 - Scientific Reports
 - Zoomorphology
+
+---
+
+### Editorial services
+
+- Associate editor, [Acta Herpetologica](https://oaj.fupress.net/index.php/ah/index)
 
 <!--
 ### Email
