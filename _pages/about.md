@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->
 
-Hi, I'm **Yu Zeng** 曾昱, a comparative biomechanist and organismal biologist at the University of South Florida in Tampa, Florida. 
+Hi, I'm **Yu Zeng** 曾昱, a comparative biomechanist and organismal biologist at the University of South Florida in Tampa, Florida.
 
 ---
 
@@ -45,7 +45,6 @@ I use these biological systems both to understand organismal function and evolut
 ### Education
 
 I received my Ph.D. in Integrative Biology from University of California at Berkeley (advised by [Robert Dudley](https://berkeleyflightlab.org) & [David Wake](https://wakelab.berkeley.edu/)).
-
 
 ---
 
@@ -71,12 +70,12 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 
 ---
 
-
 ### Professional service
 
 **Associate Editor:** [Acta Herpetologica](https://oaj.fupress.net/index.php/ah/index)
 
-**Reviewer for:** 
+**Reviewer for:**
+
 - Bioinspiration & Biomimetics
 - Biotropica
 - eLife
@@ -95,7 +94,6 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 - Zoomorphology
 
 ---
-
 
 <!--
 ### Email
