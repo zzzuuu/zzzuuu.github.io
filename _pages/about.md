@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 <!--![borneo cicada](assets/img/borneo_cicada.jpeg){:class="img-responsive"}{:height="200px"}-->
 <!--{:width="25%"}-->
 
-Hi, I'm **Yu Zeng** 曾昱, a comparative biomechanist and organismal biologist at the University of South Florida in Tampa, Florida.
+Hi, I'm a comparative biomechanist and organismal biologist at the University of South Florida in Tampa, Florida.
 
 ---
 
