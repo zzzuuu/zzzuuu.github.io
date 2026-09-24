@@ -31,10 +31,9 @@ Hi, I'm **Yu Zeng** 曾昱, a comparative biomechanist and organismal biologist 
 
 ### Research
 
-I study how organisms achieve extraordinary motion, combining speed, reach, precision, and control, and uncover the biomechanical principles underlying these capabilities. 
+I study how organisms achieve extraordinary motion, combining speed, reach, precision, and control, and uncover the biomechanical principles underlying these capabilities.
 
 I am particularly interested in how these systems originate and diversify through evolution, and how their design principles can inspire new engineering systems.
-
 
 - Aerial locomotion and control - righting, gliding, maneuvering, and the evolutionary origins of insect flight
 - Rapid actuation and manipulation - ballistic projection, prehensile structures, and biological end-effectors
