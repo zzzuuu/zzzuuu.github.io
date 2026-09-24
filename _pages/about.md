@@ -31,14 +31,15 @@ Hi, I'm **Yu Zeng** 曾昱, a comparative biomechanist and organismal biologist 
 
 ### Research
 
-I study how organisms achieve extraordinary motion, combining speed, reach, precision, and control, and uncover the biomechanical principles underlying these capabilities. I am particularly interested in how high-performance mechanisms originate and diversify through evolution, and how their design principles can inspire new engineering systems.
+I study how organisms achieve extraordinary motion, combining speed, reach, precision, and control, and uncover the biomechanical principles underlying these capabilities. 
 
-I use these biological systems both to understand organismal function and evolution and as models for developing new mechanisms for actuation, manipulation, and control.
+I am particularly interested in how these systems originate and diversify through evolution, and how their design principles can inspire new engineering systems.
 
-- **Aerial locomotion and control** - righting, gliding, maneuvering, and the evolutionary origins of insect flight
-- **Rapid actuation and manipulation** - ballistic projection, prehensile structures, and biological end-effectors
-- **Morphological reconfiguration and maneuverability** - how organisms and body parts change geometry to control movement and interaction
-- **Functional biomaterials** - formation, mechanics, and evolution of biological materials such as hagfish slime threads
+
+- Aerial locomotion and control - righting, gliding, maneuvering, and the evolutionary origins of insect flight
+- Rapid actuation and manipulation - ballistic projection, prehensile structures, and biological end-effectors
+- Morphological reconfiguration and maneuverability - how organisms and body parts change geometry to control movement and interaction
+- Novel biomaterials - formation, mechanics, and evolution of biological materials such as hagfish slime threads
 
 ---
 
