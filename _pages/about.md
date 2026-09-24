@@ -31,14 +31,14 @@ Hi, I'm **Yu Zeng** 曾昱, a comparative biomechanist and organismal biologist 
 
 ### Research
 
-I study how organisms achieve extraordinary motion—combining speed, reach, precision, and control—and uncover the biomechanical principles underlying these capabilities. I am particularly interested in how high-performance mechanisms originate and diversify through evolution, and how their design principles can inspire new engineering systems.
+I study how organisms achieve extraordinary motion, combining speed, reach, precision, and control, and uncover the biomechanical principles underlying these capabilities. I am particularly interested in how high-performance mechanisms originate and diversify through evolution, and how their design principles can inspire new engineering systems.
 
 I use these biological systems both to understand organismal function and evolution and as models for developing new mechanisms for actuation, manipulation, and control.
 
-    - **Aerial locomotion and control** — righting, gliding, maneuvering, and the evolutionary origins of flight
-    - **Rapid actuation and manipulation** — ballistic projection, prehensile structures, and biological end effectors
-    - **Morphological reconfiguration and maneuverability** — how organisms and body parts change geometry to control movement and interaction
-    - **Functional biomaterials** — formation, mechanics, and evolution of biological materials such as hagfish slime threads
+- **Aerial locomotion and control** - righting, gliding, maneuvering, and the evolutionary origins of insect flight
+- **Rapid actuation and manipulation** - ballistic projection, prehensile structures, and biological end-effectors
+- **Morphological reconfiguration and maneuverability** - how organisms and body parts change geometry to control movement and interaction
+- **Functional biomaterials** - formation, mechanics, and evolution of biological materials such as hagfish slime threads
 
 ---
 
@@ -70,11 +70,12 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 
 ---
 
-### Professional service
+### Editorial service
 
-**Associate Editor:** [Acta Herpetologica](https://oaj.fupress.net/index.php/ah/index)
+- Associate Editor, [Acta Herpetologica](https://oaj.fupress.net/index.php/ah/index)
 
-**Reviewer for:**
+---
+### Reviewed for
 
 - Bioinspiration & Biomimetics
 - Biotropica
@@ -102,7 +103,6 @@ dreavoniz @ berkeley.edu
 yuzeng @ usf.edu
 (Note: yzeng7 @ ucmerced.edu is defunct)  -->
 
----
 
 <!--How to pronounce my name? My first name Yu ([昱](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%98%B1)): it has a final "[-ü](https://resources.allsetlearning.com/chinese/pronunciation/-%C3%BC)", see details [here](https://resources.allsetlearning.com/chinese/pronunciation/Yu) and [this YouTube video](https://www.youtube.com/watch?v=XwG_jp42GhA).-->
 
