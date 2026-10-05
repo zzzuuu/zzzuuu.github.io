@@ -32,7 +32,7 @@ The latest finding features a shared biomechanical architecture for ballistic la
 
 <div class="d-flex justify-content-center mt-3">
     <div class="col-md-8">
-        {% include figure.liquid loading="eager" path="assets/img2024/f.tongue.sample.1.png" title="" class="img-fluid rounded z-depth-1" style="height: 80px;" %}
+        {% include figure.liquid loading="eager" path="assets/img2024/f.tongues.comp.4.final.png" title="" class="img-fluid rounded z-depth-1" style="height: 80px;" %}
     </div>
 </div>
 
