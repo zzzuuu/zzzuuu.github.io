@@ -41,6 +41,7 @@ I am particularly interested in how these systems originate and diversify throug
 - Novel biomaterials - formation, mechanics, and evolution of biological materials such as hagfish slime threads
 
 ---
+
 <!-- Research photo gallery -->
 
 {% assign album_images = site.static_files
@@ -50,7 +51,7 @@ I am particularly interested in how these systems originate and diversify throug
 
 <div class="research-photo-row">
 
-  {% for image in album_images %}
+{% for image in album_images %}
 
     {% assign ext = image.extname | downcase %}
 
@@ -62,9 +63,10 @@ I am particularly interested in how these systems originate and diversify throug
         loading="lazy"
       >
     {% endif %}
-  {% endfor %}
-</div>
 
+{% endfor %}
+
+</div>
 
 ---
 
@@ -122,8 +124,6 @@ I received my Ph.D. in Integrative Biology from University of California at Berk
 - Zoomorphology
 
 ---
-
-
 
 <!--
 ### Email
