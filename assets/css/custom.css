@@ -57,7 +57,7 @@
 .research-photo-row img {
   height: 80px;
   width: auto;
-  max-width: none;
+  max-width: 100px;
 
   flex-shrink: 0;
   object-fit: contain;
