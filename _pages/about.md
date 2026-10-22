@@ -44,27 +44,54 @@ I am particularly interested in how these systems originate and diversify throug
 
 <!-- Research photo gallery -->
 
+<style>
+.research-photo-row {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  gap: 12px;
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin: 20px 0;
+  padding-bottom: 10px;
+  clear: both;
+}
+
+.research-photo-row img {
+  display: block !important;
+  height: 8px !important;
+  width: auto !important;
+  max-width: none !important;
+  max-height: 80px !important;
+  flex: 0 0 auto !important;
+  object-fit: contain;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .research-photo-row img {
+    height: 100px !important;
+    max-height: 100px !important;
+  }
+}
+</style>
+
 {% assign album_images = site.static_files
   | where_exp: "file", "file.path contains '/assets/album1/banner/'"
   | sort: "path"
 %}
 
 <div class="research-photo-row">
-
-{% for image in album_images %}
-
-  {% assign ext = image.extname | downcase %}
-  {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.gif' %}
-
+  {% for image in album_images %}
+    {% assign ext = image.extname | downcase %}
+    {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.gif' %}
       <img
         src="{{ image.path | relative_url }}"
         alt="Research photograph"
         loading="lazy"
       >
     {% endif %}
-
-{% endfor %}
-
+  {% endfor %}
 </div>
 
 ---
