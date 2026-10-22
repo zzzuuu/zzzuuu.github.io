@@ -59,7 +59,7 @@ I am particularly interested in how these systems originate and diversify throug
 
 .research-photo-row img {
   display: block !important;
-  height: 8px !important;
+  height: 80px !important;
   width: auto !important;
   max-width: none !important;
   max-height: 80px !important;
