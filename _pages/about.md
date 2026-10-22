@@ -53,9 +53,8 @@ I am particularly interested in how these systems originate and diversify throug
 
 {% for image in album_images %}
 
-    {% assign ext = image.extname | downcase %}
-
-    {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.webp' or ext == '.gif' %}
+  {% assign ext = image.extname | downcase %}
+  {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.gif' %}
 
       <img
         src="{{ image.path | relative_url }}"
