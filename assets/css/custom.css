@@ -35,3 +35,52 @@
   margin: 2.5rem auto;
   padding: 0 1rem;
 }
+
+
+/* Horizontal research photo gallery */
+
+.research-photo-row {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 12px;
+
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+
+  margin: 25px 0;
+  padding-bottom: 12px;
+}
+
+.research-photo-row img {
+  height: 220px;
+  width: auto;
+  max-width: none;
+
+  flex-shrink: 0;
+  object-fit: contain;
+
+  border-radius: 6px;
+  scroll-snap-align: start;
+}
+
+/* Optional: hide scrollbar */
+
+.research-photo-row {
+  scrollbar-width: none;
+}
+
+.research-photo-row::-webkit-scrollbar {
+  display: none;
+}
+
+/* Smaller photographs on mobile */
+
+@media (max-width: 768px) {
+  .research-photo-row img {
+    height: 160px;
+  }
+}
