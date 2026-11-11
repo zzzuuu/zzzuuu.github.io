@@ -31,7 +31,7 @@ Hi, I'm a comparative biomechanist and organismal biologist at the University of
 
 ### Research
 
-I study how organisms achieve extraordinary motion, combining speed, reach, precision, and control, and uncover the biomechanical principles underlying these capabilities.
+I study how organisms achieve extraordinary motion, combining rapidness, far reach, precision, and control, and uncover the biomechanical principles underlying these capabilities. 
 
 I am particularly interested in how these systems originate and diversify through evolution, and how their design principles can inspire new engineering systems.
 
